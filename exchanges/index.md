@@ -1,7 +1,16 @@
 layout: page
-title: "DMF Contact Details"
+title: "DMF Exchanges"
 permalink: https://Digital-Monetary-Fund\Digital-Monetary-Fund.github.io/exchanges/
 
-here are the DMF Exchanges
+                <h2 className="title">Digital Asset Exchanges</h2>
+                  <p>
+Digital Monetary Fund currencies are available on many crypto exchanges, including those listed below.<br /><br />
+Automatic trading robots or bots are used to provide a continuous market for DMF currencies. This means that DMF always provides market liquidity so that coins be bought or sold efficiently at any time.<br /><br />
+Other crypto exchange users are also free to make markets in DMF currencies at any time and may offer competitive spreads and take advantage of any arbitrage opportunities in the markets.<br />	<br />
+Spreads of no more than 1% are guaranteed to be continuously available for every currency and any quantity.<br /><br />
+Email our Treasury staff <a href="mailto: markets@digitalmonetary.fund">markets@digitalmonetary.fund</a> any queries about liquidity or market-making operations.<br />
+                </p>    
+
+
 
 

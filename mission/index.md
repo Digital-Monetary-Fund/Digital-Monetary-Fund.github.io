@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Exchanges
-subtitle: These digital asset exchanges support our tokens
+title: Mission
+subtitle: Mission statement here
+navigation_weight: 2
+permalink: /mission/
 ---
-                <h2 className="title">Digital Asset Exchanges</h2>
+                <h2>Digital Asset Exchanges</h2>
                  
 Digital Monetary Fund currencies are available on many crypto exchanges, including those listed below.<br /><br />
 Automatic trading robots or bots are used to provide a continuous market for DMF currencies. This means that DMF always provides market liquidity so that coins be bought or sold efficiently at any time.<br />

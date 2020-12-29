@@ -20,8 +20,10 @@
 
 title: Digital Monetary Fund
 email: info@digitalmonetary.fund
-description: Digital Monetary Fund aims to link national fiat currencies with stable block-chain based crypto currencies to enable frictionless, risk-free and universal monetary flows.
-baseurl: "" # the subpath of your site, e.g. /blog
+description: 
+description: > # this means to ignore newlines until "baseurl:"
+Digital Monetary Fund aims to link national fiat currencies with stable block-chain based crypto currencies to enable frictionless, risk-free and universal monetary flows.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://www.digitalmonetary.fund # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MonetaryDigital
 github_username:  Digital-Monetary-Fund
@@ -63,14 +65,14 @@ defaults:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "info@digitalmonetary.fund"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: info@digitalmonetary.fund
+  facebook: Digital-Monetary-Fund-111060390635996
+  github: digital-monetary-fund
+  twitter: MonetaryDigital
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: digital-monetary-fund
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

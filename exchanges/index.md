@@ -2,6 +2,8 @@
 layout: page
 title: Exchanges
 subtitle: These digital asset exchanges support our tokens
+navigation_weight: 2
+permalink: /exchanges/
 ---
                 <h2 className="title">Digital Asset Exchanges</h2>
                  

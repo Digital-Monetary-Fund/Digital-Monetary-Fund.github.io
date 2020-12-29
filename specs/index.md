@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Currency Specifications
-subtitle: Currency Specifications
+title: Currency Specifications
+subtitle: Currency Specifications for Smart Contracts
 ---
 
                     <h2>Currency Specifications</h2>

@@ -1,7 +1,14 @@
+---
 layout: page
 title: "DMF Contact Details"
-permalink: https://Digital-Monetary-Fund\Digital-Monetary-Fund.github.io/exchanges/
+subtitle: Why you'd want to go on a date with me
+---
 
 here is the DMF 
 
+here is the DMF 
+
+here is the DMF 
+
+here is the DMF 
 

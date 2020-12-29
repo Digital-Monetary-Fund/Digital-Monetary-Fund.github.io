@@ -2,6 +2,8 @@
 layout: page
 title: Currency Specifications
 subtitle: Currency Specifications for Smart Contracts
+navigation_weight: 2
+permalink: /specs/
 ---
 
                     <h2>Currency Specifications</h2>

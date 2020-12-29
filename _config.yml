@@ -20,7 +20,6 @@
 
 title: Digital Monetary Fund
 email: info@digitalmonetary.fund
-description: 
 description: > # this means to ignore newlines until "baseurl:"
 Digital Monetary Fund aims to link national fiat currencies with stable block-chain based crypto currencies to enable frictionless, risk-free and universal monetary flows.
 baseurl: "/" # the subpath of your site, e.g. /blog

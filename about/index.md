@@ -2,6 +2,8 @@
 layout: page
 title: About
 subtitle: About Digital Monetary Fund
+navigation_weight: 2
+permalink: /about/
 ---
 
                 <h2>About Digital Monetary Fund</h2>

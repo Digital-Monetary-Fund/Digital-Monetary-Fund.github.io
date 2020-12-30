@@ -32,11 +32,11 @@ plugins:
   - jekyll-feed
 #  - jekyll-sitemap
 
-defaults:
-  - scope:
-      path: "" # all files
-    values:
-      permalink: "/:title:output_ext"
+#defaults:
+#  - scope:
+#      path: "" # all files
+#    values:
+#      permalink: "/:title:output_ext"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

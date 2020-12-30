@@ -5,7 +5,7 @@ navigation_weight: 2
 permalink: /directors/
 ---
 
-The Digital Monetary Fund is managed by a seasoned team of financial markets and technical experts. We share a common philosophy of how blockchain and cryptography can be harnessed to deliver the promises of Modern Monetary Economic Theory.
+The Digital Monetary Fund is managed by a seasoned team of financial markets and technical experts. We share a common philosophy of how blockchain and cryptography technology can be harnessed to deliver the promises of Modern Monetary Economic Theory.
 
 <style type="text/css">
     .tg {
@@ -14,7 +14,6 @@ The Digital Monetary Fund is managed by a seasoned team of financial markets and
     }
     
     .tg td {
-        border-color: black;
         border-width: 1px;
         font-size: 14px;
         overflow: hidden;
@@ -23,11 +22,7 @@ The Digital Monetary Fund is managed by a seasoned team of financial markets and
     }
     
     .tg th {
-        border-style: solid;
-        border-width: 1px;
-        font-family: Arial, sans-serif;
         font-size: 14px;
-        font-weight: normal;
         overflow: hidden;
         padding: 10px 5px;
         word-break: normal;
@@ -39,6 +34,7 @@ The Digital Monetary Fund is managed by a seasoned team of financial markets and
         vertical-align: top
     }
 </style>
+
 <table class="tg">
     <tbody>
         <tr>

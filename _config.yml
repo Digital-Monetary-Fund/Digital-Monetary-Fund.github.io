@@ -20,11 +20,13 @@
 
 title: Digital Monetary Fund
 email: info@digitalmonetary.fund
-description: Digital Monetary Fund aims to link national fiat currencies with stable block-chain based crypto currencies.
+description: Digital Monetary Fund aims to link national fiat currencies with smart and stable block-chain based crypto currencies.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://www.digitalmonetary.fund # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MonetaryDigital
 github_username:  Digital-Monetary-Fund
+
+avatar: "/favicon.png"
 
 # Build settings
 theme: minima
@@ -133,6 +135,6 @@ feed_show_tags: true
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+navbar-img: "/images/DMF-Logo.png"
+footer-img: "/images/DMF-Logo.png"
+page-img: "/images/DMF-Logo.png"

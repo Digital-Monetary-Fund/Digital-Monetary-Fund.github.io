@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Exchanges
-subtitle: These digital asset exchanges support our tokens
-navigation_weight: 2
+title: Contact Us
+subtitle: Contact details for the Digital Monetary Fund team
+navigation_weight: 5
 permalink: /contact/
 ---
-                <h2 className="title">Digital Asset Exchanges</h2>
-                 
-Digital Monetary Fund currencies are available on many crypto exchanges, including those listed below.<br /><br />
-Automatic trading robots or bots are used to provide a continuous market for DMF currencies. This means that DMF always provides market liquidity so that coins be bought or sold efficiently at any time.<br />
 
-Other crypto exchange users are also free to make markets in DMF currencies at any time and may offer competitive spreads and take advantage of any arbitrage opportunities in the markets.<br />
+Our Address :- Avenue de Tervueren 142, 
+1150 Bruxelles, 
+Belgium
 
-Spreads of no more than 1% are guaranteed to be continuously available for every currency and any quantity.<br /><br />
-Email our Treasury staff <a href="mailto: markets@digitalmonetary.fund">markets@digitalmonetary.fund</a> any queries about liquidity or market-making operations.<br />
+General enquiries please email <a href="mailto: info@digitalmonetary.fund">info@digitalmonetary.fund</a>
+
+Email our Treasury staff about liquidity or market-making operations.<a href="mailto: markets@digitalmonetary.fund">markets@digitalmonetary.fund</a>
+
+For Support or technical enquiries email the Help Desk. <a href="mailto: support@digitalmonetary.fund">support@digitalmonetary.fund</a>

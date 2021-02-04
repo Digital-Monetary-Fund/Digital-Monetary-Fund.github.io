@@ -7,7 +7,7 @@ permalink: /dao/
 
 The Digital Monetary Fund is managed by a seasoned team of financial markets and technical experts. We share a common philosophy of how blockchain and cryptography technology can be harnessed to deliver the promises of Modern Monetary Economic Theory. Management is driven by a shared commitment to the principles of a Decentralised Autonomous Organisation (DAO).
 
-Overview
+**Overview**
 
 The Digital Monetary Fund (DMF) is a digital decentralized autonomous organization (DAO - stylized Đ), a form of member-directed entity. It began as an idea to use blockchain technology with Monetarist Economic Theory in April 2018. By September 2020 it had evolved into the Digital Monetary Fund and it was decided a DAO was the way to form the entity.
 
@@ -17,7 +17,7 @@ The DMF DAO is stateless, and not tied to any particular nation state. Rules of 
 
 The DAO will crowd-funded via a token sale in May 2021, and then on secondary markets.
 
-Operation
+**Operation**
 
 The DMF DAO is a decentralized autonomous organization that exists as a set of contracts among people that resides on the Ethereum blockchain; it does not have a physical address, nor people in formal management roles. The theory underlying the DMF DAO is that by removing delegated power from directors and placing it directly in the hands of owners the DAO removed the ability of directors and fund managers to misdirect and waste investor funds.
 

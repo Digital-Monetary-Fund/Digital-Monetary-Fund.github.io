@@ -22,3 +22,4 @@ Other crypto exchange users are also free to make markets in DMF currencies at a
 Spreads of no more than 1% are guaranteed to be continuously available for every currency and any quantity.
 
 Email our Treasury staff <a href="mailto: markets@digitalmonetary.fund">markets@digitalmonetary.fund</a> any queries about liquidity or market-making operations.
+

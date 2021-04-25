@@ -135,6 +135,6 @@ feed_show_tags: true
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/images/DMF-Logo.png"
-footer-img: "/images/DMF-Logo.png"
-page-img: "/images/DMF-Logo.png"
+navbar-img: "/images/navbar-logo.jpg.png"
+footer-img: "/images/footer-logo.jpg"
+page-img: "/images/page-logo.png"

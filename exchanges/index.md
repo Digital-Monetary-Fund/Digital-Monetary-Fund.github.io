@@ -13,6 +13,7 @@ Automatic trading robots or bots are used to provide a continuous market for DMF
 | Exchange        | Website                             | Country    |
 | :---------------|------------------------------------ |------------|
 | CoinHarbour     | <a href="https://www.coinharbour.com.au">https://www.coinharbour.com.au</a> | Australia  |
+| Independent Exchange     | <a href="https://www.independent.exchange">https://www.independent.exchange</a> | Singapore  |
 | Binance         | <a href="https://www.binance.com">https://www.binance.com</a> | Japan |
 
 

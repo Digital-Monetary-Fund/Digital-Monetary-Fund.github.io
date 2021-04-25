@@ -3,7 +3,7 @@ layout: page
 title: DAO Governance
 subtitle: Explaining the DAO Organisation
 navigation_weight: 2
-permalink: /dao/
+permalink: /dao/governance
 ---
 
 Consent of the governed is the only legitimate basis for governance. Throughout history innovation in governance has enabled an increasingly more direct relationship between a community and those that make and enforce community rules. For example in a democracy, the intent is that rule makers are also community members, not a separate class creating and enforcing laws from some citadel on high.

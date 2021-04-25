@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+About the Digital Monetary Fund Project
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+After several months of online discussion during 2018, we joined together to launch the Digital Monetary Fund project.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Our goal is to use blockchain technology to implement theories of Monetarist Economic Theory in new digital world.
 
+A Digital Autonomous Organisation (DAO) will govern the Fiscal Policy of the Digital Monetary Fund to create the world’s first democratic and distributed monetary system.
 
-[jekyll-organization]: https://github.com/jekyll
+Success depends on democracy, independence and transparency. All of the code that runs the Digital Monetary Fund project is open-source and available on a public git repositories to allow collaboration and peer-review.
+

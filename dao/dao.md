@@ -3,7 +3,7 @@ layout: page
 title: DAO Governance
 subtitle: Explaining the DAO Organisation
 navigation_weight: 2
-permalink: /about/dao/
+permalink: /dao/
 ---
 
 Consent of the governed is the only legitimate basis for governance. Throughout history innovation in governance has enabled an increasingly more direct relationship between a community and those that make and enforce community rules. For example in a democracy, the intent is that rule makers are also community members, not a separate class creating and enforcing laws from some citadel on high.
@@ -25,3 +25,11 @@ Check out some of these helpful links to get up to speed on the way of the DAO:
 [What Is A DAO - Philippe Honigman](https://hackernoon.com/what-is-a-dao-c7e84aa1bd69)
 
 [What Is DAO - Cointelegraph](https://cointelegraph.com/ethereum-for-beginners/what-is-dao)
+
+~~~~~~ javascript
+var example = i;
+i++;
+console.log("JavaScript sample: ");
+
+console.log(i);
+~~~~~~~

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Home"
-subtitle: Why you'd want to go on a date with me
+subtitle: Home Page - Digital Monetary Fund
 navigation_weight: 2
 permalink: /home/
 ---

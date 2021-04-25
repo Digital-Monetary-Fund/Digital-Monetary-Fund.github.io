@@ -18,13 +18,13 @@ DAO communities share values and governance, and allow members to have ownership
 
 Check out some of these helpful links to get up to speed on the way of the DAO:
 
-[How Do DAOs Really Work - Gary Lai](https://medium.com/cortexlabs/how-do-daos-really-work-425e7b41d9d)
+<a href="https://medium.com/cortexlabs/how-do-daos-really-work-425e7b41d9d" target="_blank">How Do DAOs Really Work - Gary Lai</a>
 
-[What Is A DAO - Shermin Voshmigr](https://blockchainhub.net/dao-decentralized-autonomous-organization/)
+<a href="https://blockchainhub.net/dao-decentralized-autonomous-organization/" target="_blank">What Is A DAO - Shermin Voshmigr</a>
 
-[What Is A DAO - Philippe Honigman](https://hackernoon.com/what-is-a-dao-c7e84aa1bd69)
+<a href="https://hackernoon.com/what-is-a-dao-c7e84aa1bd69" target="_blank">What Is A DAO - Philippe Honigman</a>
 
-[What Is DAO - Cointelegraph](https://cointelegraph.com/ethereum-for-beginners/what-is-dao)
+<a href="https://cointelegraph.com/ethereum-for-beginners/what-is-dao" target="_blank">What Is DAO - Coin Telegraph</a>
 
 ~~~~~~ javascript
 var example = i;

@@ -7,7 +7,7 @@ permalink: /dao/
 
 The Digital Monetary Fund is managed by a seasoned team of financial markets and technical experts. We share a common philosophy of how blockchain and cryptography technology can be harnessed to deliver the promises of Modern Monetary Economic Theory. Management is driven by a shared commitment to the principles of a Decentralised Autonomous Organisation (DAO).
 
-![Transparency](https://www.digitalmonetary.fund/impact_transparent.png)
+![Transparency](/images/impact_transparent.png)
 
 **Overview**
 
@@ -51,10 +51,3 @@ Check out some of these helpful links to get up to speed on the way of the DAO:
 
 <a href="https://cointelegraph.com/ethereum-for-beginners/what-is-dao" target="_blank">What Is DAO - Coin Telegraph</a>
 
-~~~~~~ javascript
-var example = i;
-i++;
-console.log("JavaScript sample: ");
-
-console.log(i);
-~~~~~~~

@@ -14,7 +14,7 @@ A Digital Autonomous Organisation (DAO) will govern the Fiscal Policy of the Dig
 
 Success depends on democracy, independence and transparency. All of the code that runs the Digital Monetary Fund project is open-source and available on a public git repositories to allow collaboration and peer-review.
 
-*The Leadership Team*
+**The Leadership Team**
 
 The Digital Monetary Fund is managed by a seasoned team of financial markets and technical experts. We share a common philosophy of how blockchain and cryptography technology can be harnessed to deliver the promises of Modern Monetary Economic Theory. Management is driven by a shared commitment to the principles of a Decentralised Autonomous Organisation (DAO).
 

@@ -35,8 +35,14 @@ plugins:
 #  - jekyll-sitemap
 
 header_pages:
+  - home.md
   - about.md
   - dao.md
+  - specs.md
+  - exchanges.md
+  - contact.md
+
+show_excerpts: true
 
 #defaults:
 #  - scope:

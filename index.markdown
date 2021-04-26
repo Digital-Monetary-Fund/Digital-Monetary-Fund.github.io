@@ -6,14 +6,10 @@
 layout: home
 ---
 
-test test test test test test test test test 
+**Financial Sector for the 2020s:** Building a more Democratic, Inclusive and Transparent Monetary System.
 
-test test test test test test test test test 
+The Digital Monetary Fund aims to link national fiat currencies with stable block-chain based crypto currencies to enable friction-less, risk-free and universal monetary flows.
 
-test test test test test test test test test 
+We will do this by using blockchain digital assets and networks for an inflation-proof, transparent and trust-less monetary system.
 
-test test test test test test test test test 
-
-test test test test test test test test test 
-
-test test test test test test test test test 
+![DAO](/assets/dao-2.png)

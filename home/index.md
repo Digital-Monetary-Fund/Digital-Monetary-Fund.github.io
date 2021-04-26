@@ -12,4 +12,4 @@ The Digital Monetary Fund aims to link national fiat currencies with stable bloc
 
 We will do this by using blockchain digital assets and networks for an inflation-proof, transparent and trust-less monetary system.
 
-![DAO](/images/dao-2.png)
+![DAO](/assets/dao-2.png)

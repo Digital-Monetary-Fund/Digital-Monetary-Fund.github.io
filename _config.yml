@@ -135,6 +135,6 @@ feed_show_tags: true
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/images/navbar-logo.jpg"
-footer-img: "/images/footer-logo.jpg"
-page-img: "/images/page-logo.jpg"
+navbar-img: "/assets/navbar-logo.jpg"
+footer-img: "/assets/footer-logo.jpg"
+page-img: "/assets/page-logo.jpg"

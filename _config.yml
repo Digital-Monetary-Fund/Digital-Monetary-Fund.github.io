@@ -41,6 +41,7 @@ header_pages:
   - dao.md
   - specs.md
   - exchanges.md
+  - posts
   - contact.md
 
 show_excerpts: true

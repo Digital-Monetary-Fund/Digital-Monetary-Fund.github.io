@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 subtitle: Home Page - Digital Monetary Fund
 navigation_weight: 2
-permalink: /
+permalink: /home/
 ---
 
 **Financial Sector for the 2020s:** Building a More Inclusive Financial System for the new decade.

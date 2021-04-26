@@ -18,12 +18,12 @@ For Support or technical enquiries email the Help Desk. <a href="mailto: support
 
 <ul class="social-media-list">
 
-  <li><a rel="me" href="https://www.facebook.com/Digital-Monetary-Fund-111060390635996/" title="{{ social.facebook | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg></a></li>
+  <li><a rel="me" href="https://www.facebook.com/Digital-Monetary-Fund-111060390635996/" target="_blank" title="{{ social.facebook | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg></a></li>
 
-  <li><a rel="me" href="https://github.com/Digital-Monetary-Fund/" title="{{ social.github | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg></a></li>
+  <li><a rel="me" href="https://github.com/Digital-Monetary-Fund/" target="_blank" title="{{ social.github | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg></a></li>
 
-  <li><a rel="me" href="https://www.linkedin.com/company/digital-monetary-fund/" title="{{ social.linkedin | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg></a></li>
+  <li><a rel="me" href="https://www.linkedin.com/company/digital-monetary-fund/" target="_blank" title="{{ social.linkedin | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg></a></li>
 
-  <li><a rel="me" href="https://twitter.com/MonetaryDigital" title="{{ social.twitter | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a></li>
+  <li><a rel="me" href="https://twitter.com/MonetaryDigital" target="_blank" title="{{ social.twitter | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a></li>
 </ul>
 

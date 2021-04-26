@@ -2,7 +2,7 @@
 layout: post
 title:  "Ethereum Full Node Deployment"
 date:   2020-02-01 14:20:00 +1100
-categories: jekyll update
+categories: project update
 ---
 
 We have deployed a full Ethereum node using Geth in a data centre.

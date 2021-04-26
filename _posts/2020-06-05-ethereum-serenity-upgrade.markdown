@@ -2,7 +2,7 @@
 layout: post
 title:  "Ethereum Serenity"
 date:   2020-06-05 18:10:00 +1100
-categories: jekyll update
+categories: project update
 ---
 
 Ethereum 2.0, also called Eth2 or ‘Serenity’, is the next upgrade to the Ethereum blockchain. 

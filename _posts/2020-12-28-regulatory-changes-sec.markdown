@@ -2,7 +2,7 @@
 layout: post
 title:  "Regulatory Changes"
 date:   2020-12-28 15:15:00 +1100
-categories: jekyll update
+categories: project update
 ---
 
 Our plan has been to create a blockchain master token that both provides liquidity and also a mechanism for member voting rights for management of the Digital Monetary Fund project.

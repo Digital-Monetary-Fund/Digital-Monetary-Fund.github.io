@@ -16,6 +16,13 @@ Email our Treasury staff about liquidity or market-making operations.<a href="ma
 
 For Support or technical enquiries email the Help Desk. <a href="mailto: support@digitalmonetary.fund">support@digitalmonetary.fund</a>
 
+<form accept-charset="UTF-8" action="https://formkeep.com/f/dfa95f1d559c" method="POST">
+  <input type="email" name="email" placeholder="Your Email">
+  <input type="text" name="name" placeholder="Your Name">
+  <input type="hidden" name="utf8" value="✓">
+  <button type="submit">Submit</button>
+</form>
+
 <ul class="social-media-list">
 
   <li><a rel="me" href="https://www.facebook.com/Digital-Monetary-Fund-111060390635996/" target="_blank" title="{{ social.facebook | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg></a></li>

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Contact Us
+title: Contact
 subtitle: Contact details for the Digital Monetary Fund team
-navigation_weight: 5
+navigation_weight: 2
 permalink: /contact/
 ---
 
@@ -15,7 +15,8 @@ General enquiries please email <a href="mailto: info@digitalmonetary.fund">info@
 Email our Treasury staff about liquidity or market-making operations.<a href="mailto: markets@digitalmonetary.fund">markets@digitalmonetary.fund</a>
 
 For Support or technical enquiries email the Help Desk. <a href="mailto: support@digitalmonetary.fund">support@digitalmonetary.fund</a>
-
+ 
+  
 <form accept-charset="UTF-8" action="https://formkeep.com/f/dfa95f1d559c" method="POST">
   <input type="email" name="email" placeholder="Your Email">
 
@@ -26,8 +27,8 @@ For Support or technical enquiries email the Help Desk. <a href="mailto: support
   <button type="submit">Submit</button>
 </form>
 
-
-
+ 
+ 
 <ul class="social-media-list">
 
   <li><a rel="me" href="https://www.facebook.com/Digital-Monetary-Fund-111060390635996/" target="_blank" title="{{ social.facebook | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg></a></li>

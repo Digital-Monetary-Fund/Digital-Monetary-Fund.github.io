@@ -18,10 +18,15 @@ For Support or technical enquiries email the Help Desk. <a href="mailto: support
 
 <form accept-charset="UTF-8" action="https://formkeep.com/f/dfa95f1d559c" method="POST">
   <input type="email" name="email" placeholder="Your Email">
+
   <input type="text" name="name" placeholder="Your Name">
+
   <input type="hidden" name="utf8" value="✓">
+
   <button type="submit">Submit</button>
 </form>
+
+
 
 <ul class="social-media-list">
 

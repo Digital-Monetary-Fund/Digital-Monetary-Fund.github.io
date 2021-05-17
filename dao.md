@@ -12,7 +12,6 @@ The Digital Monetary Fund is managed by anexpert team of financial markets and t
 The Digital Monetary Fund DAO has been published on the Ethereum live blockchain and can be viewed here:
 
 <a href="https://etherscan.io/token/0xa42be035918a91406ad0d756e96af0dd442e12df" target="_blank">https://etherscan.io/token/0xa42be035918a91406ad0d756e96af0dd442e12df</a>
-![Transparency](/assets/impact_transparent.png)
 
 The Digital Monetary Fund DAO has launched on the popular Aragon Governance platform. The Aragon platform allows token holders to participate in the decision-making and direction of the Digital Monetary Fund DAO. Holders of the DMF token can connect their Ethereum Wallet and participate in the DAO here:
 

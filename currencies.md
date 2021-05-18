@@ -3,7 +3,7 @@ layout: page
 title: Currencies
 subtitle: Currency Specifications for Smart Contracts
 navigation_weight: 2
-permalink: /specs/
+permalink: /currencies/
 ---
                 
 All Digital Monetary Fund currencies are published on the Ethereum Live Block Chain as <em>ERC20 Smart Contracts</em>. 

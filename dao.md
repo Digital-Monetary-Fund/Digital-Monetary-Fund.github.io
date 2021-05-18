@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "DAO"
+title: DAO
+subtitle: Distributed Automous Organisation
 navigation_weight: 2
 permalink: /dao/
 ---

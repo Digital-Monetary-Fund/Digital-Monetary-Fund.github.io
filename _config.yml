@@ -23,7 +23,7 @@ email: info@digitalmonetary.fund
 description: Digital Monetary Fund aims to link national fiat currencies with smart and stable block-chain based crypto currencies.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://www.digitalmonetary.fund # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: MonetaryDigital
+twitter_username: DigitalMoneyFnd
 github_username:  Digital-Monetary-Fund
 
 avatar: "/favicon.png"

@@ -12,12 +12,16 @@ These DMF tokens will allow participation in the DMF DAO and can also be sold in
 
 To receive the free Airdrop of DMF tokens follow these steps.
 
+1) Follow us on Twitter: <a href="https://twitter.com/DigitalMoneyFnd" target="_blank">https://twitter.com/DigitalMoneyFnd</a>
+
+2) Like us on Facebook: <a href="https://www.facebook.com/Digital-Monetary-Fund-111060390635996" target="_blank">https://www.facebook.com/Digital-Monetary-Fund</a>
+
+3) Subscribe to our Discord channel: <a href="https://discord.gg/68QCmgFhgH" target="_blank">https://discord.gg/DigitalMonetaryFund</a>
+
+<a href="https://client.aragon.org/#/dmf/" target="_blank">https://client.aragon.org/#/dmf/</a>
+
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/68f22e6a1901737836bed666f/42c133df662714c2a8f8f5740.js");</script>
+
 
 Automatic trading robots or bots are used to provide a continuous market for DMF currencies. This means that DMF always provides market liquidity so that coins be bought or sold efficiently at any time.
-
-Other crypto exchange users are also free to make markets in DMF currencies at any time and may offer competitive spreads and take advantage of any arbitrage opportunities in the markets.
-
-Spreads of no more than 1% are guaranteed to be continuously available for every currency and any quantity.<br /><br />
-Email our Treasury staff <a href="mailto: markets@digitalmonetary.fund">markets@digitalmonetary.fund</a> any queries about liquidity or market-making operations.
-
 

@@ -18,10 +18,9 @@ To receive the free Airdrop of DMF tokens follow these steps.
 
 3) Subscribe to our Discord channel: <a href="https://discord.gg/68QCmgFhgH" target="_blank">https://discord.gg/DigitalMonetaryFund</a>
 
+4) Send an Email to <a href="mailto:members@digitalmonetary.fund">members@digitalmonetary.fund</a> with your name and the Ethereum address for receiving the tokens.
+
 <a href="https://client.aragon.org/#/dmf/" target="_blank">https://client.aragon.org/#/dmf/</a>
 
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/68f22e6a1901737836bed666f/42c133df662714c2a8f8f5740.js");</script>
-
-
-Automatic trading robots or bots are used to provide a continuous market for DMF currencies. This means that DMF always provides market liquidity so that coins be bought or sold efficiently at any time.
 

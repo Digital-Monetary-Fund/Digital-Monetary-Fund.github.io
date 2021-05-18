@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Currency Specifications
+title: Currencies
 subtitle: Currency Specifications for Smart Contracts
 navigation_weight: 2
 permalink: /specs/

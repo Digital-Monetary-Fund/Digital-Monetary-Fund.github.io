@@ -13,6 +13,17 @@ permalink: /email-signup/
      3. you have defined the list in _config.yml,
      for ex: "mailchimp-list: //redgadgets.us10.list-manage.com/subscribe/post?u=210acce5db69d3d4a04b0e25d&amp;id=08c6708f40"
 -->  
+  
+<form accept-charset="UTF-8" action="https://formkeep.com/f/dfa95f1d559c" method="POST">
+  <input type="email" name="email" placeholder="Your Email">
+
+  <input type="text" name="name" placeholder="Your Name">
+
+  <input type="hidden" name="utf8" value="✓">
+
+  <button type="submit">Submit</button>
+</form>
+
 
 The Digital Monetary Fund DAO was recently launched and we are offering early adopters an Airdrop of 10,000 free DMF tokens for the first 100 participants.
 

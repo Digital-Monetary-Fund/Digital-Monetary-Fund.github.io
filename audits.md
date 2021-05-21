@@ -12,25 +12,11 @@ These DMF tokens will allow participation in the DMF DAO and can also be sold in
 
 To receive the free Airdrop of DMF tokens follow these steps.
 
-1) Follow us on Twitter: <a href="https://twitter.com/DigitalMoneyFnd" target="_blank">https://twitter.com/DigitalMoneyFnd</a>
+1) Aragon Minters Smart Contract Audit: <a href="https://www.digitalmonetary.fund/assets/audits/Aragon_Minters_Smart_Contract_Audit_v210121.pdf" target="_blank">Aragon_Minters_Smart_Contract_Audit_v210121.pdf</a>
 
-2) Like us on Facebook: <a href="https://www.facebook.com/Digital-Monetary-Fund-111060390635996" target="_blank">https://www.facebook.com/Digital-Monetary-Fund</a>
+2) Aragon Protocol Smart Contract Audit: <a href="https://www.digitalmonetary.fund/assets/audits/Aragon_Protocol_Smart_Contract_Audit_v201113.pdf" target="_blank">Aragon_Protocol_Smart_Contract_Audit_v201113.pdf</a>
 
-3) Subscribe to our Discord channel: <a href="https://discord.gg/68QCmgFhgH" target="_blank">https://discord.gg/DigitalMonetaryFund</a>
+3) ConsenSys Aragon DAO Templates Audit Report: <a href="https://www.digitalmonetary.fund/assets/audits/ConsenSys_aragon-daotemplates-audit-report-2019-08.pdf" target="_blank">ConsenSys_aragon-daotemplates-audit-report-2019-08.pdf</a>
 
-4) Send an Email to <a href="mailto:members@digitalmonetary.fund">members@digitalmonetary.fund</a> with your name and the Ethereum address for receiving the tokens.
+4) Audit whg01 report: <a href="https://www.digitalmonetary.fund/assets/audits/audit_whg01_report.pdf">audit_whg01_report.pdf</a> with your name and the Ethereum address for receiving the tokens.
 
-<a href="https://client.aragon.org/#/dmf/" target="_blank">https://client.aragon.org/#/dmf/</a>
-
-
-https://www.digitalmonetary.fund/assets/audits/Aragon_Minters_Smart_Contract Audit v210121.pdf
-
-https://www.digitalmonetary.fund/assets/audits/Aragon_Protocol_Smart_Contract_Audit_v201113.pdf
-
-https://www.digitalmonetary.fund/assets/audits/ConsenSys_aragon-daotemplates-audit-report-2019-08.pdf
-
-https://www.digitalmonetary.fund/assets/audits/audit_whg01_report.pdf
-
-
-
-<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/68f22e6a1901737836bed666f/42c133df662714c2a8f8f5740.js");</script>

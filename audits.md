@@ -22,4 +22,15 @@ To receive the free Airdrop of DMF tokens follow these steps.
 
 <a href="https://client.aragon.org/#/dmf/" target="_blank">https://client.aragon.org/#/dmf/</a>
 
+
+https://www.digitalmonetary.fund/assets/audits/Aragon_Minters_Smart_Contract Audit v210121.pdf
+
+https://www.digitalmonetary.fund/assets/audits/Aragon_Protocol_Smart_Contract_Audit_v201113.pdf
+
+https://www.digitalmonetary.fund/assets/audits/ConsenSys_aragon-daotemplates-audit-report-2019-08.pdf
+
+https://www.digitalmonetary.fund/assets/audits/audit_whg01_report.pdf
+
+
+
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/68f22e6a1901737836bed666f/42c133df662714c2a8f8f5740.js");</script>

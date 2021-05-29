@@ -16,5 +16,3 @@ Visit our DAO at <a href="https://client.aragon.org/#/dmf/" target="_blank">http
 ![DAO](/assets/dao-2.png)
 
 
-
-

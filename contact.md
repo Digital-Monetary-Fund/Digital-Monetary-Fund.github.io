@@ -16,18 +16,7 @@ Email our Treasury staff about liquidity or market-making operations.<a href="ma
 
 For Support or technical enquiries email the Help Desk. <a href="mailto: support@digitalmonetary.fund">support@digitalmonetary.fund</a>
  
-  
-<form accept-charset="UTF-8" action="https://formkeep.com/f/dfa95f1d559c" method="POST">
-  <input type="email" name="email" placeholder="Your Email">
-
-  <input type="text" name="name" placeholder="Your Name">
-
-  <input type="hidden" name="utf8" value="✓">
-
-  <button type="submit">Submit</button>
-</form>
-
- 
+Subscribe to our Discord channel: <a href="https://discord.gg/68QCmgFhgH" target="_blank">https://discord.gg/DigitalMonetaryFund</a> for general and community-based support.
  
 <ul class="social-media-list">
 

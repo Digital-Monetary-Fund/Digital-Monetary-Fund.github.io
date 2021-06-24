@@ -23,25 +23,46 @@ email: info@digitalmonetary.fund
 description: Digital Monetary Fund aims to link national fiat currencies with smart and stable block-chain based crypto currencies.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://www.digitalmonetary.fund # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: MonetaryDigital
+twitter_username: DigitalMoneyFnd
 github_username:  Digital-Monetary-Fund
 
 avatar: "/favicon.png"
+
+# Your name to show in the footer
+author: Digital Monetary Fund DAO team
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-#  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-github-metadata
 
 header_pages:
   - home.md
   - about.md
   - dao.md
-  - specs.md
+  - currencies.md
   - exchanges.md
   - contact.md
+
+
+
+
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
+
+
 
 show_excerpts: true
 
@@ -59,17 +80,28 @@ show_excerpts: true
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Exclude these files from production site
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+
 
 # --- Footer social media links --- #
 
@@ -128,6 +160,84 @@ feed_show_tags: true
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
+# --- Logo --- #
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/assets/img/avatar-icon.png"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+#title-img: /path/to/image
+
+# How to display the link to your website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "MyWebsite.com"
+
+# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+excerpt_length: 50
+
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
+
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: true
+
+# The keywords to associate with your website, for SEO purposes
+#keywords: "my,list,of,keywords"
+
+# --- Colours / background image --- #
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+# Alternatively, the navbar, footer, and page background can be set to an image
+# instead of colour
+
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
+
+# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
+#mobile-theme-col: "#0085A1"
+
+# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
+#site-css:
+#  - "/assets/css/custom-styles.css"
+
+# If you have common JavaScript files that should be included in every page, list them here
+#site-js:
+#  - "/assets/js/custom-script.js"
+
+# --- Web Analytics Section --- #
+
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
+
+# Fill in your Google Analytics ID to track your website using Google Analytics
+#google_analytics: ""
+
+# Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
+#cloudflare_analytics: ""
+
+# Google Tag Manager ID
+#gtm: ""
+
+
+
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
@@ -149,3 +259,9 @@ feed_show_tags: true
 navbar-img: "/assets/navbar-logo.jpg"
 footer-img: "/assets/footer-logo.jpg"
 page-img: "/assets/page-logo.jpg"
+
+
+
+
+
+

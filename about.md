@@ -72,3 +72,4 @@ The Digital Monetary Fund is managed by a seasoned team of financial markets and
     </tbody>
 </table>
 
+We welcome the participation of others who share our vision and would like to contribute to the development and management of the project. Join our Distributed Autonomous Organisation to make and vote on proposals.

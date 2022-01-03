@@ -20,3 +20,8 @@ To receive the free Airdrop of DMF tokens follow these steps.
 
 4) Audit whg01 report: <a href="https://www.digitalmonetary.fund/assets/audits/audit_whg01_report.pdf">audit_whg01_report.pdf</a> with your name and the Ethereum address for receiving the tokens.
 
+
+https://github.com/crytic/slither
+
+Slither is a Solidity static analysis framework written in Python 3. It runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses. Slither enables developers to find vulnerabilities, enhance their code comprehension, and quickly prototype custom analyses.
+

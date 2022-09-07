@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "State Channels Project"
-date:   2022-09-01 12:15:00 +1100
+title:  "Smart Contract Auditing"
+date:   2022-09-07 12:12:20 +1100
 categories: project update
 ---
 

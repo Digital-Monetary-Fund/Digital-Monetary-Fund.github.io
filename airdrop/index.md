@@ -18,9 +18,15 @@ To receive the free Airdrop of DMF tokens follow these steps.
 
 3) Subscribe to our Discord channel: <a href="https://discord.gg/68QCmgFhgH" target="_blank">https://discord.gg/DigitalMonetaryFund</a>
 
-4) Send an Email to <a href="mailto:members@digitalmonetary.fund">members@digitalmonetary.fund</a> with your name and the Ethereum address for receiving the tokens.
+4) Subscribe to our Telegram <a href="https://t.me/DigitalMonetaryFund" target="_blank">https://t.me/DigitalMonetaryFund</a>
 
-<a href="https://client.aragon.org/#/dmf/" target="_blank">https://client.aragon.org/#/dmf/</a>
+5) Subscribe to our Quora feed <a href="https://www.quora.com/profile/Digital-Monetary-Fund/" target="_blank">https://www.quora.com/profile/Digital-Monetary-Fund/</a>
+
+6) Subscribe to our Reddit page <a href="https://www.reddit.com/r/DigitalMonetaryFund/" target="_blank">https://www.reddit.com/r/DigitalMonetaryFund/</a>
+
+7) Send an Email to <a href="mailto:members@digitalmonetary.fund">members@digitalmonetary.fund</a> with your name and the Ethereum address for receiving the tokens.
+
+Once your tokens have been received, participation in the DAO is welcome: <a href="https://client.aragon.org/#/dmf/" target="_blank">https://client.aragon.org/#/dmf/</a>
 
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/68f22e6a1901737836bed666f/42c133df662714c2a8f8f5740.js");</script>
 

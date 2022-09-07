@@ -109,12 +109,12 @@ exclude:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: info@digitalmonetary.fund
-  facebook: Digital-Monetary-Fund-111060390635996
+  facebook: digitalmonetary.fund
   github: digital-monetary-fund
-  twitter: MonetaryDigital
+  twitter: DigitalMoneyFnd
 #  patreon: DeanAttali
 #  youtube: c/daattali
-#  reddit: yourname
+#  reddit: DigitalMonetaryFund
   linkedin: digital-monetary-fund
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -175,7 +175,7 @@ round-avatar: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "DigitalMonetary.Fund"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

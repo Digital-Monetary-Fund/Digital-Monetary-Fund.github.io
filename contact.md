@@ -26,6 +26,7 @@ For Support or technical enquiries email the Help Desk. <a href="mailto: support
 | Twitter	| <a href="https://twitter.com/DigitalMoneyFnd" target="_blank">https://twitter.com/DigitalMoneyFnd</a> |
 | Quora	| <a href="https://www.quora.com/profile/Digital-Monetary-Fund/" target="_blank">https://www.quora.com/profile/Digital-Monetary-Fund/</a>|
 | Reddit	| <a href="https://www.reddit.com/r/DigitalMonetaryFund/" target="_blank">https://www.reddit.com/r/DigitalMonetaryFund/</a>|
+| Medium	| <a href="https://digital-monetary-fund.medium.com" target="_blank">https://digital-monetary-fund.medium.com</a>|
 | DAO		| <a href="https://client.aragon.org/#/dmf/" target="_blank">https://client.aragon.org/#/dmf/</a> |
 | Contract Address	| <a href="https://etherscan.io/token/0xa42be035918a91406ad0d756e96af0dd442e12df" target="_blank">https://etherscan.io/token/0xa42be035918a91406ad0d756e96af0dd442e12df</a> |
 

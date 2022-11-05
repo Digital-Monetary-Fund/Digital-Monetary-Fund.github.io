@@ -1,0 +1,65 @@
+
+Optimistic Ethereum
+
+Network Name: Optimistic Ethereum
+New RPC Url: https://mainnet.optimism.io/
+ChainID: 10
+Symbol: ETH
+Block Explorer URL: https://optimistic.etherscan.io
+
+Binance Smart Chain
+
+Network Name: BSC
+New RPC Url: https://bsc-dataseed.binance.org/
+ChainID: 56
+Symbol: BNB
+Block Explorer URL: https://bscscan.com
+
+Polygon (Matic)
+
+Network Name: Polygon
+New RPC Url: https://rpc-mainnet.maticvigil.com/
+ChainID: 137
+Symbol: MATIC
+Block Explorer URL: https://explorer.matic.network/
+
+Huobi ECO
+
+Network Name: HECO
+New RPC Url: https://http-mainnet-node.huobichain.com
+ChainID: 128
+Symbol: HT
+Block Explorer URL: https://hecoinfo.com
+
+Avalanche Network
+
+Network Name: Avalanche
+New RPC Url: https://api.avax.network/ext/bc/C/rpc
+ChainID: 0xa86a
+Symbol: AVAX
+Block Explorer URL: https://cchain.explorer.avax.network/
+
+Fantom Opera
+
+Network Name: Fantom
+New RPC Url: https://rpcapi.fantom.network
+ChainID: 250
+Symbol: FTM
+Block Explorer URL: https://ftmscan.com/
+
+Harmony
+
+Network Name: Harmony
+New RPC Url: https://api.harmony.one
+ChainID: 1666600000
+Symbol: ONE
+Block Explorer URL: https://explorer.harmony.one/#/
+
+xDai
+
+Network Name: xDai
+New RPC Url: https://rpc.xdaichain.com/
+ChainID: 0x64
+Symbol: xDai
+Block Explorer URL: https://blockscout.com/xdai/mainnet
+view rawevm_chain_rpcs hosted with ❤ by GitHub

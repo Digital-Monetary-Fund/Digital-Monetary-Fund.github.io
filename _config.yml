@@ -85,8 +85,6 @@ exclude:
   - screenshot.png
   - docs/
 
-
-
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.

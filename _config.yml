@@ -173,10 +173,6 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "DigitalMonetary.Fund"
-
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
@@ -259,9 +255,4 @@ footer-link-col: "#404040"
 navbar-img: "/assets/navbar-logo.jpg"
 footer-img: "/assets/footer-logo.jpg"
 page-img: "/assets/page-logo.jpg"
-
-
-
-
-
 

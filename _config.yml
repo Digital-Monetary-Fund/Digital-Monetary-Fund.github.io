@@ -41,11 +41,12 @@ plugins:
   - jekyll-github-metadata
 
 header_pages:
-  - home.md
-  - about.md
-  - dao.md
-  - currencies.md
-  - exchanges.md
+  - index.md
+  - about/index.md
+  - dao/index.md
+  - currencies/index.md
+  - exchanges/index.md
+  - news/index.md
   - contact.md
 
 show_excerpts: true
@@ -135,6 +136,7 @@ excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
+excerpt_separator: <!--more-->
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
@@ -154,15 +156,6 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
-
-# Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
-
-# Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"

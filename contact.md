@@ -15,7 +15,7 @@ General enquiries please email <a href="mailto: info@digitalmonetary.fund">info@
 Email our Treasury staff about liquidity or market-making operations.<a href="mailto: markets@digitalmonetary.fund">markets@digitalmonetary.fund</a>
 
 For Support or technical enquiries email the Help Desk. <a href="mailto: support@digitalmonetary.fund">support@digitalmonetary.fund</a>
-  
+
 | Media        | URL Link    |
 | :---------------|------------------------------------ |
 | Website	| <a href="https://www.digitalmonetary.fund" target="_blank">https://www.digitalmonetary.fund</a> |

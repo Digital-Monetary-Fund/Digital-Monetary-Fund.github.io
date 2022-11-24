@@ -9,8 +9,7 @@ The easiest way to keep informed or participate with the Digital Monetary Fund (
 
 Join our Discord server using this link: <br>
 <a href="https://discord.gg/3c4gVn7d">https://discord.gg/3c4gVn7d</a>
-<img src="https://www.digitalmonetary.fund/assets/Discord.png" alt="Crew3" class="center"  width= 50%>
-
+![Discord!](/assets/Discord.png)
 Alternatively, log into Discord and search for "Digital Monetary Fund".
 
 Members of the DMF DAO are active in our Discord server and can assist others interested in the project.

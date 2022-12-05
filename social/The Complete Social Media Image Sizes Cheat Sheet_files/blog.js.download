@@ -1,0 +1,14 @@
+jQuery(document).ready(function(){});jQuery(document).ready(function(){jQuery('.about-author-block a').attr('target','_blank');jQuery('p:empty').remove();jQuery("p").remove(":contains('&nbsp;')");jQuery(".accordion_head").addClass("accordion_head_faq")});jQuery(document).ready(function(){var isFirst=!0,numLi=1;jQuery('#totalnumber ol').each(function(){var list=jQuery(this);list.attr("start",numLi);numLi=numLi+list.find("li").length})})
+var div_height=0
+var first_link_top=0
+var is_transform_add=!1;function sticky_relocate(){var window_top=jQuery(window).scrollTop();var footer_top=jQuery(".related-posts").offset().top;var div_top=jQuery('.post-body').offset().top;var aboutAuthor=document.querySelector('.about-author-block');var aboutAuthorClient=aboutAuthor.getBoundingClientRect()
+var width=jQuery('.sidebar').width()
+if(aboutAuthorClient.top+jQuery('.about-author-block').height()-7<div_height){var tranform_top=jQuery('.about-author-block').offset().top-jQuery('.about-author-block').height()-div_height-45
+var transform="translate3d(0px, "+tranform_top+"px, 0px)"
+if(!is_transform_add){is_transform_add=!0
+jQuery('.sidebar__inner').attr('style','');jQuery('.sidebar__inner').css({"position":"relative","transform":transform})}}else if(window_top+30>div_top){is_transform_add=!1
+jQuery('.sidebar').css({"position":"relative"});jQuery('.sidebar__inner').css({"position":"fixed","top":"30px","width":width,"transform":"translate3d(0px, 0px, 0px)"})}else{is_transform_add=!1
+jQuery('.sidebar').attr('style','');jQuery('.sidebar__inner').attr('style','');jQuery('.sidebar__inner').css({"position":"relative","transform":"translate3d(0px, 0px, 0px)"})}
+if(window_top+30<first_link_top){jQuery('.sidebar a').removeClass('active')}}
+jQuery(document).ready(function(){jQuery(".customurl").click(function(event){jQuery("#customlinkmodal").addClass('show');var href=jQuery(this).attr('href');var title=jQuery(this).attr('title');jQuery('#domainlink').attr('href',href);jQuery('#domainname').text(title);event.preventDefault()
+jQuery(".modal").css("display","block");jQuery(".hs-landing-page").addClass('stet')})});jQuery(document).ready(function(){jQuery("#domainlink").click(function(){jQuery(".hs-landing-page").removeClass('stet');jQuery(".modal").css("display","none")});jQuery("#customlinkmodal .close").click(function(){jQuery("#customlinkmodal").hide();jQuery(".hs-landing-page").removeClass('stet')})})

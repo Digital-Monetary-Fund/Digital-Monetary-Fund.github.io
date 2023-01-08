@@ -1,78 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://www.digitalmonetary.fund/ranking.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/currency_codes.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/coins</loc>
-		<priority>0.67</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/404.html</loc>
-		<priority>0.67</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/_layouts/post.html</loc>
-		<priority>0.33</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/_layouts/page.html</loc>
-		<priority>0.33</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/_layouts/home.html</loc>
-		<priority>0.33</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/_layouts/default.html</loc>
-		<priority>0.33</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/_includes/social.html</loc>
-		<priority>0.33</priority>
-		<lastmod>2022-09-07</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/_includes/header.html</loc>
-		<priority>0.33</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/_includes/head.html</loc>
-		<priority>0.33</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/_includes/google-analytics.html</loc>
-		<priority>0.33</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/_includes/footer.html</loc>
-		<priority>0.33</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/_includes/disqus_comments.html</loc>
-		<priority>0.33</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
-	<url>
-		<loc>https://www.digitalmonetary.fund/_includes/custom-head.html</loc>
-		<priority>0.33</priority>
-		<lastmod>2022-08-03</lastmod>
-	</url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.digitalmonetary.fund/</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/about/</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/dao/</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/currencies/</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/exchanges/</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/news/</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/contact/</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2022/11/24/discord.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2022/11/11/crew3.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2022/09/07/audit-reports.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/audits/</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2022/09/01/state-channels.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2022/08/02/evm_chains.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2022/07/07/ethereum-proof-of-stake.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2021/11/03/BSC-Testing.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2021/08/03/London-Upgrade.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2021/07/16/ENS.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2021/06/24/collateralisation.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2021/05/31/Issuance.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2021/05/31/Blockchains.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2021/05/14/DAO-Aragon.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2021/05/14/DAO-Published-Ethereum.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2021/04/26/smart-contract-defi.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2020/12/28/regulatory-changes-sec.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/jekyll/update/2020/07/23/remote-working.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2020/06/05/ethereum-serenity-upgrade.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/project/update/2020/02/01/ethereum-full-node.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/welcome/!!!/2018/12/20/welcome-to-jekyll.html</loc>
+  <lastmod>2023-01-08T13:59:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/audits/Coinscope_Audit_DMF.pdf</loc>
+  <lastmod>2023-01-08T13:59:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/audits/CoinTool_Audit_DMF.pdf</loc>
+  <lastmod>2023-01-08T13:59:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.digitalmonetary.fund/audits/OpenZeppelin_ERC20_Verifier.pdf</loc>
+  <lastmod>2023-01-08T13:59:36+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>

@@ -2,9 +2,9 @@
 *Q3 2025 | Official Launch: Early 2026*  
 
 ## **Introduction**  
-The **Digital Monetary Fund (DMF)** is a next-generation decentralized stablecoin ecosystem leveraging **Artificial Intelligence (AI)** to optimize liquidity and capital backing. Structured as a **Decentralized Autonomous Organization (DAO)**, DMF introduces a portfolio of AI-driven stablecoins (**DMK tokens**) covering all **200+ ISO-standard currencies**, initially launching on **Ethereum** and **Binance Smart Chain (BSC)**.  
+The **Digital Monetary Fund (DMF)** is a next-generation decentralized stablecoin ecosystem leveraging **Artificial Intelligence (AI)** to optimize liquidity and capital backing. Structured as a **Decentralized Autonomous Organization (DAO)**, DMF introduces a portfolio of AI-driven stablecoins (**DMF tokens**) covering all **200+ ISO-standard currencies**, initially launching on **Ethereum** and **Binance Smart Chain (BSC)**.  
 
-To support development and ecosystem growth, DMF is conducting a **private pre-sale of DMF tokens** ahead of its official launch in early 2026.  
+To support development and ecosystem growth, DMF is conducting a **private pre-sale of DMF tokens**, limited to a **total raise of 10,000,000 USDT**, ahead of its official launch in early 2026.  
 
 ---  
 
@@ -13,20 +13,27 @@ To support development and ecosystem growth, DMF is conducting a **private pre-s
 - **Blockchain:** Ethereum (ERC-20)  
 - **Contract Address:** [`0xA42bE035918A91406Ad0d756e96af0dD442E12Df`](https://etherscan.io/token/0xA42bE035918A91406Ad0d756e96af0dD442E12Df)  
 - **Pre-Sale Price:** **100 DMF = 1 USDT**  
+- **Total Pre-Sale Cap:** **10,000,000 USDT** (100,000,000 DMF)  
 - **Fundraising Round:** **Private Pre-Sale (Q3 2025)**  
 - **Target Launch:** **Early 2026**  
+- **No Vesting or Escrow:** Pre-sale DMF tokens are **immediately liquid** with no lock-up periods.  
+- **Priority Allocation:** Preference given to participants who will **actively contribute** to the DAO and AI stablecoin ecosystem.  
 
 ---  
 
 ## **Project Highlights**  
-### **1. AI-Optimized Stablecoins (DMK)**  
+### **1. AI-Optimized Stablecoins**  
 - **200+ ISO-Currency Stablecoins** – Full coverage of global fiat currencies.  
 - **Dynamic Liquidity Management** – AI adjusts reserves in real-time for stability.  
 - **Multi-Chain Deployment** – Launching on **Ethereum & Binance Smart Chain**, with future expansions.  
 
-### **2. Decentralized Governance (DAO)**  
-- Community-driven decisions on monetary policies, collateralization, and protocol upgrades.  
-- **DMF token holders** govern the ecosystem.  
+### **2. Decentralized Governance (DAO) via DMF Tokens**  
+- **Voting Rights:** DMF token holders govern key decisions, including:  
+  - Monetary policies (collateral ratios, issuance controls).  
+  - Protocol upgrades & smart contract adjustments.  
+  - Treasury management & ecosystem grants.  
+- **Proposal System:** Token holders can submit and vote on governance proposals.  
+- **Staking & Rewards:** Future incentives for long-term DAO participants.  
 
 ### **3. Secure & Transparent Backing**  
 - Hybrid collateral model (crypto, fiat, and algorithmic stabilization).  
@@ -35,8 +42,10 @@ To support development and ecosystem growth, DMF is conducting a **private pre-s
 ---  
 
 ## **Pre-Sale Structure**  
-- **Exclusive Private Sale** – Limited to approved participants.  
-- **Minimum Contribution:** TBD (contact team for details).  
+- **Exclusive Private Sale** – Limited to **10,000,000 USDT** total raise.  
+- **No Lock-ups or Escrow** – Tokens are **fully liquid** upon distribution.  
+- **Priority Allocation:** Active contributors to the DAO and AI stablecoin project will receive preferential access.  
+- **Minimum Contribution:** 10,000 USDT.  
 - **Funds Use Case:**  
   - AI & smart contract development.  
   - Liquidity provisioning.  
@@ -64,7 +73,7 @@ This is a **private, invite-only offering**. Eligible investors must:
 
 ## **Next Steps**  
 - **Official Website:** [https://www.digitalmonetary.fund/](https://www.digitalmonetary.fund/)  
-- **Contact:** [Telegram](https://t.me/DigitalMonetaryFund)  [DAO](https://client.aragon.org/#/dmf/)
+- **Contact:** [Insert official email/Telegram]  
 
 **Launching a new era of AI-powered stablecoins. Join the DMF evolution.**  
 
@@ -73,3 +82,4 @@ This is a **private, invite-only offering**. Eligible investors must:
 *Private & Confidential – Not for Public Distribution.*  
 
 ---  
+**Note:** This is a simplified "lite paper" for informational purposes. Always consult legal/financial advisors before participating in private sales.

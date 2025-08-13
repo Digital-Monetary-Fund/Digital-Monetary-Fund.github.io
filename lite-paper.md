@@ -13,7 +13,7 @@ To support development and ecosystem growth, DMF is conducting a **private pre-s
 - **Blockchain:** Ethereum (ERC-20)  
 - **Contract Address:** [`0xA42bE035918A91406Ad0d756e96af0dD442E12Df`](https://etherscan.io/token/0xA42bE035918A91406Ad0d756e96af0dD442E12Df)  
 - **Pre-Sale Price:** **100 DMF = 1 USDT**  
-- **Total Pre-Sale Cap:** **10,000,000 USDT** (100,000,000 DMF)  
+- **Total Pre-Sale Cap:** **10,000,000 USDT** (1,000,000,000 DMF)  
 - **Fundraising Round:** **Private Pre-Sale (Q3 2025)**  
 - **Target Launch:** **Early 2026**  
 - **No Vesting or Escrow:** Pre-sale DMF tokens are **immediately liquid** with no lock-up periods.  

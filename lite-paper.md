@@ -73,7 +73,7 @@ This is a **private, invite-only offering**. Eligible investors must:
 
 ## **Next Steps**  
 - **Official Website:** [https://www.digitalmonetary.fund/](https://www.digitalmonetary.fund/)  
-- **Contact:** [Insert official email/Telegram]  
+- **Contact:** [Telegram](https://t.me/DigitalMonetaryFund) - [DAO](https://client.aragon.org/#/dmf/)
 
 **Launching a new era of AI-powered stablecoins. Join the DMF evolution.**  
 

@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Ethereum Name Service
+date:   2021-07-17 10:30:00 +1100
+categories: project update
+---
+
+The Ethereum Name Service (ENS) is getting popular.
+ENS is a decentralized system that lets users associate their Ethereum addresses with human readable names, like example.eth.  Its purpose is to make it easier to transact with ether and other Ethereum-based tokens.
+
+Etherscan's blog post explains that it only tracks addresses that match certain conditions (that the addresses have both forward & reverse resolution set) so the data doesn't include all Ethereum names. But it does show the rapid growth of Ethereum names over the last few months, considering there were only 1,000 new addresses in March.
+
+The increase in Ethereum names coincided with a steep decrease in Ethereum gas fees, as using the blockchain became much cheaper.
+
+Ethereum names are a bit of a blessing and a curse. While someone can have a personalized and publicly known Ethereum name that their friends (or anyone) can send money to, the downside is that anyone can see their address and watch their transactions.
+
+Therefore, it's typically seen as good practice to limit the funds in them because, in theory, they could be used by criminals to make an ordered list of the most wealthy Ethereum users and target them.
+
+And yet, according to Etherscan, the addresses associated with existing Ethereum names contain a significant amount of cryptocurrency. This includes 116,500 ether (ETH), 6,300 wrapped ether (WETH), 23.5 million of the stablecoin USDC and 963,500 uniswap (UNI).
+
+In total, this is worth around $277 million at current market prices.
+
+But ENS users will need to use some of these funds to keep paying for the names, especially the expensive ones with fewer characters.

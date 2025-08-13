@@ -1,0 +1,169 @@
+{
+   "news": [
+      {
+         "id": "crew3.html",
+         "title": "Crew3 Site for CoinHarbour Community",
+         "created_at": "2022-11-22T11:10:00+01:00"
+      },
+      {
+         "id": "discord.html",
+         "title": "CoinHarbour Discord Channel",
+         "created_at": "2022-11-18T10:15:00+01:00"
+      },
+      {
+         "id": "ftx_response.html",
+         "title": "CoinHarbour Response to FTX Collapse",
+         "created_at": "2022-11-16T11:22:00+01:00"
+      },
+      {
+         "id": "platform_upgrade_nov_2022.html",
+         "title": "CoinHarbour Exchange Platform Upgrade",
+         "created_at": "2022-11-01T12:15:00+01:00"
+      },
+      {
+         "id": "listing_ens.html",
+         "title": "New Listing for Ethereum Name Service (ENS)",
+         "created_at": "2022-09-28T11:10:00+01:00"
+      },
+      {
+         "id": "listing_busd_usdc.html",
+         "title": "New Listings for USD Coin (USDC) Binance USD (BUSD)",
+         "created_at": "2022-09-12T11:21:00+01:00"
+      },
+      {
+         "id": "ethereum_pause.html",
+         "title": "Ethereum Transactions Paused for Upgrade",
+         "created_at": "2022-09-02T11:20:00+01:00"
+      },
+      {
+         "id": "ethereum_paris_upgrade.html",
+         "title": "Ethereum Foundation Paris Upgrade",
+         "created_at": "2022-09-01T11:20:00+01:00"
+      },
+      {
+         "id": "asx_tokenised_assets.html",
+         "title": "ASX tokenised asset trading",
+         "created_at": "2022-08-25T11:22:12+01:00"
+      },
+      {
+         "id": "bug_bounty.html",
+         "title": "CoinHarbour Bug Bounty Program",
+         "created_at": "2022-07-20T11:23:10+01:00"
+      },
+      {
+         "id": "ethereum_2_pos.html",
+         "title": "Ethereum Merge Projected for September",
+         "created_at": "2022-07-19T12:55:10+01:00"
+      },
+      {
+         "id": "listing_snx_uma_yfi.html",
+         "title": "New Listings for Yearn.Finance (YFI), Synthetix (SNX) & Universal Market Access (UMA)",
+         "created_at": "2022-07-18T11:15:10+01:00"
+      },
+      {
+         "id": "listing_bico_lrc_qnt.html",
+         "title": "New listings for Biconomy (BICO), Loopring (LRC) & Quant (QNT)",
+         "created_at": "2022-07-16T11:42:10+01:00"
+      },
+      {
+         "id": "listing_ftm_nmr.html",
+         "title": "New Listings for Numeraire (NMR) & Fantom (FTM)",
+         "created_at": "2022-07-10T11:15:10+01:00"
+      },
+      {
+         "id": "terra-luna.html",
+         "title": "Terra Luna and UST Update",
+         "created_at": "2022-07-09T10:30:10+01:00"
+      },
+      {
+         "id": "boring_company_doge.html",
+         "title": "Musk’s The Boring Company Now Accepts Dogecoin For Payment",
+         "created_at": "2022-07-08T12:10:10+01:00"
+      },
+      {
+         "id": "eth_fees_drop.html",
+         "title": "Ethereum Transaction Fees Dip to Lowest Since December 2020",
+         "created_at": "2022-07-07T12:27:10+01:00"
+      },
+      {
+         "id": "listing_bat_omg_zil.html",
+         "title": "New Listings for Basic Attention Token (BAT), OMG Network (OMG) & Zilliqa (ZIL)",
+         "created_at": "2022-07-05T12:12:10+01:00"
+      },
+      {
+         "id": "listing_cho_zrx.html",
+         "title": "New Listings for Choise.com (CHO) & 0x (ZRX)",
+         "created_at": "2022-06-30T12:10:10+01:00"
+      },
+      {
+         "id": "015-news.html",
+         "title": "New Listings for Bancor Token (BNT) & Compound (COMP)",
+         "created_at": "2022-06-22T12:12:10+01:00"
+      },
+      {
+         "id": "013-news.html",
+         "title": "Binance Smart Chain Deposit/Withdrawal Suspension for Euler Hard Fork",
+         "created_at": "2022-06-20T08:11:14+01:00"
+      },
+      {
+       "id": "010-news.html",
+       "title": "New Listings for Celsius Network (CEL) and LooksRare (LOOKS)",
+      "created_at": "2022-06-15T10:21:10+01:00"
+      },      
+      {
+         "id": "011-news.html", 
+         "title": "New Listings for Lido DAO (LDO) & Ultra (UOS)",
+         "created_at": "2022-06-17T10:15:10+01:00"
+      },
+      {
+         "id": "012-news.html",
+         "title": "Custom User PayId Addresses",
+         "created_at": "2022-06-18T10:15:10+01:00"
+      },
+      {
+         "id": "009-news.html",
+         "title": "Bitcoin Cash (BCH) Fork",
+        "created_at": "2022-06-05T10:09:17+01:00"
+      },
+       {
+         "id": "008-news.html",
+         "title": "Binance Smart Chain (BSC) Support Added",
+        "created_at": "2022-05-25T10:22:22+01:00"
+      },
+       {
+         "id": "007-news.html",
+         "title": "Huobi ECO Chain (HECO) Support Added",
+         "created_at": "2022-05-20T10:24:22+01:00"
+      },
+      {
+         "id": "006-news.html",
+         "title": "Australian Digital Currency Code of Conduct",
+        "created_at": "2022-03-15T10:21:22+01:00"
+      },
+      {
+         "id": "005-news.html",
+         "title": "Ethereum Merge is delayed",
+        "created_at": "2022-03-09T10:11:22+01:00"
+      },
+      {
+         "id": "002-news.html",
+         "title": "New bech32 Bitcoin address format",
+        "created_at": "2022-01-03T10:18:22+01:00"
+      },
+      {
+        "id": "003-news.html",
+        "title": "Join us on Discord for interactive updates",
+       "created_at": "2022-02-10T10:09:22+01:00"
+     },
+     {
+        "id": "004-news.html",
+        "title": "Notice of Temporary Exchange Maintenance (2022/02/21)",
+       "created_at": "2022-02-21T10:09:22+01:00"
+     },
+     {
+      "id": "001-news.html",
+      "title": "CoinHarbour System Upgrade",
+     "created_at": "2020-11-12T11:41:22+01:00"
+   }
+]
+}

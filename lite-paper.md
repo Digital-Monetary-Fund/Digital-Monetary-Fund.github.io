@@ -1,12 +1,17 @@
 # **Digital Monetary Fund (DMF) – Private Pre-Sale Lite Paper**  
 *Q3 2025 | Official Launch: Early 2026*  
 
+![image info](./assets/logo.png)
+
 ## **Introduction**  
-The **Digital Monetary Fund (DMF)** is a next-generation decentralized stablecoin ecosystem leveraging **Artificial Intelligence (AI)** to optimize liquidity and capital backing. Structured as a **Decentralized Autonomous Organization (DAO)**, DMF introduces a portfolio of AI-driven stablecoins (**DMF tokens**) covering all **200+ ISO-standard currencies**, initially launching on **Ethereum** and **Binance Smart Chain (BSC)**.  
+The **Digital Monetary Fund (DMF)** is a next-generation decentralized stablecoin ecosystem leveraging **Artificial Intelligence (AI)** to optimize liquidity and capital backing. 
+
+Structured as a **Decentralized Autonomous Organization (DAO)**, DMF introduces a portfolio of AI-driven stablecoins (**DMF tokens**) covering all **200+ ISO-standard currencies**, initially launching on **Ethereum** and **Binance Smart Chain (BSC)**.  
 
 To support development and ecosystem growth, DMF is conducting a **private pre-sale of DMF tokens**, limited to a **total raise of 10,000,000 USDT**, ahead of its official launch in early 2026.  
 
 ---  
+<div style="page-break-after: always;"></div>
 
 ## **Key Offer Details**  
 - **Token Name:** DMF  
@@ -40,6 +45,7 @@ To support development and ecosystem growth, DMF is conducting a **private pre-s
 - Regular audits and on-chain transparency.  
 
 ---  
+<div style="page-break-after: always;"></div>
 
 ## **Pre-Sale Structure**  
 - **Exclusive Private Sale** – Limited to **10,000,000 USDT** total raise.  

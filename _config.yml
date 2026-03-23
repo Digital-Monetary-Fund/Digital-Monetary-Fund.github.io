@@ -19,17 +19,50 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Digital Monetary Fund
+tagline: AI-Powered Stablecoins for 200+ Global Currencies
 email: info@digitalmonetary.fund
-description: Digital Monetary Fund aims to link national fiat currencies with smart and stable block-chain based crypto currencies.
+description: >-
+  Digital Monetary Fund (DMF) is a decentralized autonomous organization (DAO)
+  operating AI-driven stablecoins covering 200+ ISO-standard currencies on
+  Ethereum and Binance Smart Chain.
+lang: en
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://www.digitalmonetary.fund # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DigitalMoneyFnd
 github_username:  Digital-Monetary-Fund
 
-avatar: "/favicon.png"
+# avatar is set in the Logo section below
 
 # Your name to show in the footer
-author: Digital Monetary Fund DAO team
+author:
+  name: Digital Monetary Fund DAO team
+  email: info@digitalmonetary.fund
+  uri: https://www.digitalmonetary.fund
+
+# jekyll-seo-tag: social profiles for structured data (JSON-LD)
+social:
+  name: Digital Monetary Fund
+  links:
+    - https://twitter.com/DigitalMoneyFnd
+    - https://www.facebook.com/digitalmonetary.fund
+    - https://www.linkedin.com/company/digital-monetary-fund/
+    - https://github.com/Digital-Monetary-Fund
+    - https://t.me/DigitalMonetaryFund
+
+# jekyll-seo-tag: Twitter card type
+twitter:
+  username: DigitalMoneyFnd
+  card: summary_large_image
+
+# Default social sharing image (used by jekyll-seo-tag for Open Graph / Twitter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/DMF-Logo.png
+
+# Logo for structured data (JSON-LD Organization)
+logo: /assets/DMF-Logo.png
 
 # Build settings
 theme: minima
@@ -141,14 +174,13 @@ excerpt_separator: <!--more-->
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
 
-# The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "stablecoin, DAO, decentralized finance, DeFi, cryptocurrency, Ethereum, blockchain, digital currency, AI stablecoin, DMF token"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/DMF-Logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -156,9 +188,6 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-
-# The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
 
 # --- Colours / background image --- #
 
@@ -209,23 +238,7 @@ footer-link-col: "#404040"
 
 
 
-# --- Colours / background image --- #
-
-# Personalize the colours in your website. Colour values can be any valid CSS colour
-
-#navbar-col: "#EAEAEA"
-#navbar-text-col: "#404040"
-#navbar-border-col: "#DDDDDD"
-#page-col: "#FFFFFF"
-#text-col: "#404040"
-#link-col: "#008AFF"
-#hover-col: "#0085A1"
-#footer-col: "#EAEAEA"
-#footer-text-col: "#777777"
-#footer-link-col: "#404040"
-
-# Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour
+# --- Background images --- #
 
 navbar-img: "/assets/navbar-logo.jpg"
 footer-img: "/assets/footer-logo.jpg"

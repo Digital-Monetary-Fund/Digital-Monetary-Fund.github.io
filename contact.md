@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: Contact details for the Digital Monetary Fund team
+description: Contact the Digital Monetary Fund team for general enquiries, market-making operations, or technical support.
 navigation_weight: 2
 permalink: /contact/
 ---
@@ -10,11 +11,11 @@ Our Address :- Avenue de Tervueren 142,
 1150 Bruxelles, 
 Belgium
 
-General enquiries please email <a href="mailto: info@digitalmonetary.fund">info@digitalmonetary.fund</a>
+General enquiries please email <a href="mailto:info@digitalmonetary.fund">info@digitalmonetary.fund</a>
 
-Email our Treasury staff about liquidity or market-making operations.<a href="mailto: markets@digitalmonetary.fund">markets@digitalmonetary.fund</a>
+Email our Treasury staff about liquidity or market-making operations.<a href="mailto:markets@digitalmonetary.fund">markets@digitalmonetary.fund</a>
 
-For Support or technical enquiries email the Help Desk. <a href="mailto: support@digitalmonetary.fund">support@digitalmonetary.fund</a>
+For Support or technical enquiries email the Help Desk. <a href="mailto:support@digitalmonetary.fund">support@digitalmonetary.fund</a>
 
 | Media        | URL Link    |
 | :---------------|------------------------------------ |

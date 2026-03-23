@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -r \"missing\\\\|deprecated\\\\|outdated\" /c/storage/git/dmf/Digital-Monetary-Fund.github.io --include=*.md --include=*.html)"
+    ]
+  }
+}

@@ -1,16 +1,20 @@
 ---
 layout: page
 title: Mission
-subtitle: Mission statement here
+subtitle: Our Mission
 navigation_weight: 2
 permalink: /mission/
 ---
-                 
-Digital Monetary Fund currencies are available on many crypto exchanges, including those listed below.
 
-Automatic trading robots or bots are used to provide a continuous market for DMF currencies. This means that DMF always provides market liquidity so that coins be bought or sold efficiently at any time.
+The Digital Monetary Fund (DMF) aims to use blockchain technology to implement the principles of Modern Monetary Theory for public benefit.
 
-Other crypto exchange users are also free to make markets in DMF currencies at any time and may offer competitive spreads and take advantage of any arbitrage opportunities in the markets.
+Our mission is to link national fiat currencies with stable blockchain-based crypto currencies to enable frictionless, risk-free and universal monetary flows. We do this by using blockchain digital assets and networks for an inflation-proof, transparent and trustless monetary system.
 
-Spreads of no more than 1% are guaranteed to be continuously available for every currency and any quantity.<br /><br />
-Email our Treasury staff <a href="mailto: markets@digitalmonetary.fund">markets@digitalmonetary.fund</a> any queries about liquidity or market-making operations.
+**Our Principles**
+
+- **Democracy** -- Governance through a Decentralised Autonomous Organisation (DAO), where token holders vote on all key decisions.
+- **Transparency** -- All code is open-source and available in public repositories for collaboration and peer review.
+- **Independence** -- A stateless organisation, not tied to any particular nation state, with rules encoded as smart contracts rather than national regulations.
+- **Inclusion** -- AI-driven stablecoins covering all 200+ ISO-standard currencies, enabling global participation regardless of local currency.
+
+The DMF team comes from a broad financial markets and technology background and is dedicated to building a more modern and democratic monetary system. We welcome participation from others who share the same ideals.

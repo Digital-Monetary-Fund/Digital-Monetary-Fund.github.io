@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Smart Contract Audit Reports
-subtitle: 
+subtitle: Independent Security Reviews
+description: Independent audit reports for Digital Monetary Fund smart contracts, including security reviews by Coinscope, CoinTool, and OpenZeppelin.
 navigation_weight: 2
+permalink: /audits/
 ---
 
-To preserve the integrity of Digital Monetary Fund blockchain assets we regularly review and have our Smart Contracts code audited by external experts. These reviews and audits check for security vulnerabilities, blockchain efficiency and that best practises  are adopted.
+To preserve the integrity of Digital Monetary Fund blockchain assets we regularly review and have our Smart Contracts code audited by external experts. These reviews and audits check for security vulnerabilities, blockchain efficiency and that best practices are adopted.
 
 All Digital Monetary Fund Smart Contract code is developed using the "Solidity" programming language. <br />
 
@@ -17,7 +19,7 @@ All Digital Monetary Fund Smart Contract code is developed using the "Solidity" 
 
 
 
-Anyone interested in the project is welcome to critique and review the Digital Monetary Fund codebase, which is acessable in our public Github repositories <a href="https://github.com/Digital-Monetary-Fund">https://github.com/Digital-Monetary-Fund</a>
+Anyone interested in the project is welcome to critique and review the Digital Monetary Fund codebase, which is accessible in our public Github repositories <a href="https://github.com/Digital-Monetary-Fund">https://github.com/Digital-Monetary-Fund</a>
 
-Queries or suggestions are welcome and should be sent to <a href="mailto: support@digitalmonetary.fund">support@digitalmonetary.fund</a>.
+Queries or suggestions are welcome and should be sent to <a href="mailto:support@digitalmonetary.fund">support@digitalmonetary.fund</a>.
 

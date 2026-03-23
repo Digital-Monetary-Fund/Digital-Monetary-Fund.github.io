@@ -14,7 +14,7 @@ To receive the free Airdrop of DMF tokens follow these steps.
 
 1) Follow us on Twitter: <a href="https://twitter.com/DigitalMoneyFnd" target="_blank">https://twitter.com/DigitalMoneyFnd</a>
 
-2) Like us on Facebook: <a href="https://www.facebook.com/Digital-Monetary-Fund-111060390635996" target="_blank">https://www.facebook.com/Digital-Monetary-Fund</a>
+2) Like us on Facebook: <a href="https://www.facebook.com/digitalmonetary.fund" target="_blank">https://www.facebook.com/digitalmonetary.fund</a>
 
 3) Subscribe to our Discord channel: <a href="https://discord.gg/68QCmgFhgH" target="_blank">https://discord.gg/DigitalMonetaryFund</a>
 

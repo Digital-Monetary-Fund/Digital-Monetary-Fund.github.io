@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Exchanges
-subtitle: 
+subtitle: Crypto Exchanges for DMF Currencies
+description: Crypto exchanges where Digital Monetary Fund stablecoins are available for trading.
 navigation_weight: 2
 permalink: /exchanges/
 ---
@@ -14,7 +15,7 @@ Automatic trading robots or bots are used to provide a continuous market for DMF
 | :---------------|------------------------------------ |------------|
 | CoinHarbour     | <a href="https://www.coinharbour.com.au">https://www.coinharbour.com.au</a> | Australia  |
 | Independent Exchange     | <a href="https://www.independent.exchange">https://www.independent.exchange</a> | Singapore  |
-| Independent Exchange     | <a href="https://www.mintme.com/">https://www.mintme.com/e</a> | Belize |
+| Independent Exchange     | <a href="https://www.mintme.com/">https://www.mintme.com/</a> | Belize |
 | Uniswap         | <a href="https://uniswap.org/">https://uniswap.org/</a> | New York, New York, United States |
 
 
@@ -22,5 +23,5 @@ Other crypto exchange users are also free to make markets in DMF currencies at a
 
 Spreads of no more than 1% are guaranteed to be continuously available for every currency and any quantity.
 
-Email our Treasury staff <a href="mailto: markets@digitalmonetary.fund">markets@digitalmonetary.fund</a> any queries about liquidity or market-making operations.
+Email our Treasury staff <a href="mailto:markets@digitalmonetary.fund">markets@digitalmonetary.fund</a> any queries about liquidity or market-making operations.
 

@@ -1,14 +1,13 @@
 ---
 layout: page
 title: DAO
-subtitle: Distributed Automous Organisation
+subtitle: Distributed Autonomous Organisation
+description: Learn about the DMF Decentralised Autonomous Organisation, governance, voting, and how to participate.
 navigation_weight: 2
 permalink: /dao/
 ---
 
 The Digital Monetary Fund is managed by a seasoned team of financial markets and technical experts. We share a common philosophy of how blockchain and cryptography technology can be harnessed to deliver the promises of Modern Monetary Economic Theory. Management is driven by a shared commitment to the principles of a Decentralised Autonomous Organisation (DAO).
-
-The Digital Monetary Fund is managed by anexpert team of financial markets and technical experts. We share a common philosophy of how blockchain and cryptography technology can be harnessed to deliver the promises of Modern Monetary Economic Theory. Management is driven by a shared commitment to the principles of a Decentralised Autonomous Organisation (DAO).
 
 The Digital Monetary Fund DAO has been published on the Ethereum live blockchain and can be viewed here:
 
@@ -18,7 +17,7 @@ The Digital Monetary Fund DAO has launched on the popular Aragon Governance plat
 
 <a href="https://client.aragon.org/#/dmf/" target="_blank">https://client.aragon.org/#/dmf/</a>
 
-![Transparency](/assets/impact_transparent.png)
+![DMF transparency and impact](/assets/impact_transparent.png)
 
 **Overview**
 
@@ -28,7 +27,7 @@ DAOs provide a new decentralized business model for organizing both commercial a
 
 The DMF DAO is stateless, and not tied to any particular nation state. Rules of the DMF DAO are encapsulated as Smart Contract software instructions, rather than national government regulations. Changes to the DMF DAO rules can only be made on a consensus basis, governed by votes of Smart Contract token holders.
 
-The DAO will crowd-funded via a token sale in May 2021, and then on secondary markets.
+The DAO was crowd-funded via a token sale in 2021, and is now available on secondary markets.
 
 **Operation**
 
@@ -38,7 +37,7 @@ As a blockchain-enabled organization, The DMF DAO aims to be completely transpar
 
 The DAO is intended to operate as "a hub that runs a blockchain-based international monetary system ". Investors receive voting rights by means of a digital share token; they vote on proposals that are submitted by "nominators" and a group of volunteers called "curators" check the identity of people submitting proposals and make sure the projects are legal before "whitelisting" them. The profits from operations will then flow back to its stakeholders.
 
-The DAO's relies on Ether allowed people to send their money to it from anywhere in the world without providing any identifying information.
+The DAO relies on Ether allowed people to send their money to it from anywhere in the world without providing any identifying information.
 
 **DAO Organisation and Governance**
 

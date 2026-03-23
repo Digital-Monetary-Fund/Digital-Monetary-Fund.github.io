@@ -2,6 +2,7 @@
 layout: page
 title: "Home"
 subtitle: Home Page - Digital Monetary Fund
+description: Digital Monetary Fund (DMF) is a DAO operating AI-driven stablecoins covering 200+ ISO currencies on Ethereum and Binance Smart Chain.
 navigation_weight: 2
 permalink: /
 ---
@@ -15,4 +16,4 @@ The DMF team comes from a broad financial markets and technology background and 
 
 Visit our DAO at <a href="https://client.aragon.org/#/dmf/" target="_blank">https://client.aragon.org/#/dmf/</a>
 
-![DAO](/assets/dao-2.png)
+![Digital Monetary Fund DAO governance illustration](/assets/dao-2.png)

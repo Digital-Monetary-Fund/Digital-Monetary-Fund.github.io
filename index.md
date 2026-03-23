@@ -10,7 +10,7 @@ permalink: /
 
 The Digital Monetary Fund (DMF) is a Distributed Autonomous Organisation (DAO) that operates a portfolio of next-generation smart stablecoins in a multichain environment. DMF aims to use blockchain technology to implement the principles of Modern Monetary Theory for public benefit.
 
-The Digital Monetary Fund aims to link national fiat currencies with stable block-chain based crypto currencies to enable friction-less, risk-free and universal monetary flows. We will do this by using blockchain digital assets and networks for an inflation-proof, transparent and trust-less monetary system.
+The Digital Monetary Fund aims to link national fiat currencies with stable blockchain-based cryptocurrencies to enable frictionless, risk-free and universal monetary flows. We will do this by using blockchain digital assets and networks for an inflation-proof, transparent and trustless monetary system.
 
 The DMF team comes from a broad financial markets and technology background and is dedicated to making a more modern and democratic monetary system. We welcome participation from others who share the same ideals.
 

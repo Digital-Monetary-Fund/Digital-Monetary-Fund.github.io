@@ -30,7 +30,7 @@ We are investigating other EVM chains for later deployment. Some of those chains
 
 There are a lot of EVM compatible blockchains coming out. Crypto exchanges are trying to release their own Ethereum-killer chain and developers are rushing to build the next big DeFi platform on those chains. 
 
-Ethereum Virtual Machine (EVM) blockchains are forks of the (basically copy/pastes) of the original Ethereum blockchain open-source project. These new EVM blockchains use most of the same code as Ethereum, but vary in their consensus method. They mostly use Proof of Stake (PoS) consensus protocols.
+Ethereum Virtual Machine (EVM) blockchains are forks (basically copies) of the original Ethereum blockchain open-source project. These new EVM blockchains use most of the same code as Ethereum, but vary in their consensus method. They mostly use Proof of Stake (PoS) consensus protocols.
 
 The most popular EVM blockchain spin-off is Binance Smart Chain (BSC) created by Binance. It became very popular because it was an alternative for people who wanted to use DeFi but didn’t want to pay the insane gas fees on Ethereum.
 

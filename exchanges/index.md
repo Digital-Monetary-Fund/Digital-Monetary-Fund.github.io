@@ -9,7 +9,7 @@ permalink: /exchanges/
 
 Digital Monetary Fund currencies are available on many crypto exchanges, including those listed below.
 
-Automatic trading robots or bots are used to provide a continuous market for DMF currencies. This means that DMF always provides market liquidity so that coins be bought or sold efficiently at any time.<br />
+Automatic trading robots or bots are used to provide a continuous market for DMF currencies. This means that DMF always provides market liquidity so that coins can be bought or sold efficiently at any time.<br />
 
 | Exchange        | Website                             | Country    |
 | :---------------|------------------------------------ |------------|

@@ -1,1 +1,50 @@
-// Placeholder to allow overriding predefined variables smoothly.
+// Ethereum.org-inspired color palette
+$eth-primary:        #1616B4;
+$eth-purple:         #C9B3F5;
+$eth-blue:           #88AAF1;
+$eth-cyan:           #B8FAF6;
+$eth-pink:           #F0CDC2;
+$eth-dark:           #1c1c3a;
+$eth-dark-mid:       #2e2e5e;
+$eth-light-bg:       #f7f7ff;
+
+// Override Minima defaults
+$brand-color:        #6B6B9E;
+$brand-color-light:  lighten($brand-color, 30%);
+$brand-color-dark:   darken($brand-color, 25%);
+
+$site-title-color:   $eth-primary;
+
+$text-color:         #333333;
+$background-color:   #ffffff;
+$code-background-color: #f0f0ff;
+
+$link-base-color:    $eth-primary;
+$link-visited-color: darken($eth-primary, 10%);
+$link-hover-color:   #8C8DFC;
+
+$border-color-01:    #e0e0f0;
+$border-color-02:    #c8c8e0;
+$border-color-03:    $eth-primary;
+
+$table-text-color:      lighten($text-color, 18%);
+$table-zebra-color:     $eth-light-bg;
+$table-header-bg-color: lighten($eth-purple, 15%);
+$table-header-border:   lighten($eth-purple, 5%);
+$table-border-color:    $border-color-01;
+
+// Typography
+$base-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$base-line-height: 1.6;
+
+// Layout - wider content area
+$content-width:    1080px;
+$on-palm:          600px;
+$on-laptop:        800px;
+$on-medium:        $on-palm;
+$on-large:         $on-laptop;
+
+// Spacing
+$spacing-unit:     32px;

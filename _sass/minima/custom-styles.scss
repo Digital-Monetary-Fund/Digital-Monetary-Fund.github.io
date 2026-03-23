@@ -1,2 +1,564 @@
-// Placeholder to allow defining custom styles that override everything else.
-// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+// ============================================
+// Ethereum.org-inspired custom styles for DMF
+// ============================================
+
+// --- Global ---
+
+body {
+  font-family: $base-font-family;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// --- Headings ---
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  color: #1a1a2e;
+  letter-spacing: -0.02em;
+}
+
+h1 { font-weight: 700; }
+
+// --- Links ---
+
+a {
+  color: $eth-primary;
+  text-decoration: none;
+  transition: color 0.2s ease, opacity 0.2s ease;
+
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: none;
+    opacity: 0.9;
+  }
+
+  &:visited {
+    color: $link-visited-color;
+  }
+}
+
+// --- Site Header ---
+
+.site-header {
+  background: $eth-dark;
+  border-top: 3px solid $eth-primary;
+  border-bottom: 1px solid $eth-dark-mid;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(8px);
+
+  .header-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: calc(#{$content-width} + #{$spacing-unit} * 2);
+  }
+}
+
+.site-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+
+  &,
+  &:visited {
+    color: #ffffff;
+  }
+
+  &:hover {
+    color: $eth-purple;
+    text-decoration: none;
+  }
+}
+
+.site-logo {
+  border-radius: 8px;
+}
+
+.site-title-text {
+  @media screen and (max-width: $on-palm) {
+    display: none;
+  }
+}
+
+.site-nav {
+  background-color: transparent;
+  border: none;
+
+  .page-link {
+    color: #d0d0e8;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: color 0.2s ease;
+    padding: 6px 12px;
+    border-radius: 8px;
+
+    &:hover {
+      color: #ffffff;
+      background: rgba(255, 255, 255, 0.08);
+      text-decoration: none;
+    }
+  }
+
+  .menu-icon > svg path {
+    fill: #d0d0e8;
+  }
+
+  // Mobile nav dropdown
+  @media screen and (max-width: $on-medium) {
+    background-color: $eth-dark;
+    border: 1px solid $eth-dark-mid;
+    border-radius: 12px;
+
+    .page-link {
+      color: #d0d0e8;
+      padding: 8px 16px;
+      display: block;
+    }
+  }
+
+  @media screen and (min-width: $on-medium) {
+    background-color: transparent;
+
+    .page-link {
+      display: inline-block;
+
+      &:not(:last-child) {
+        margin-right: 4px;
+      }
+    }
+  }
+}
+
+// --- Page Content ---
+
+.page-content {
+  padding: $spacing-unit * 1.5 0;
+}
+
+.wrapper {
+  max-width: calc(#{$content-width} - #{$spacing-unit});
+
+  @media screen and (min-width: $on-large) {
+    max-width: calc(#{$content-width} - #{$spacing-unit} * 2);
+  }
+}
+
+// --- Page Heading ---
+
+.page-heading {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin-bottom: $spacing-unit;
+  letter-spacing: -0.03em;
+}
+
+// --- Post / Article Styles ---
+
+.post-title,
+.post-content h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+}
+
+.post-header {
+  margin-bottom: $spacing-unit * 1.5;
+  padding-bottom: $spacing-unit;
+  border-bottom: 1px solid $border-color-01;
+}
+
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.75;
+
+  p {
+    margin-bottom: 1.5em;
+  }
+
+  img {
+    border-radius: 12px;
+    margin: $spacing-unit 0;
+    box-shadow: 0 4px 20px rgba(22, 22, 180, 0.08);
+  }
+
+  // Callout/blockquote styling
+  blockquote {
+    background: $eth-light-bg;
+    border-left: 4px solid $eth-primary;
+    border-radius: 0 12px 12px 0;
+    padding: $spacing-unit / 1.5;
+    margin: $spacing-unit 0;
+    font-style: normal;
+    color: $text-color;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.post-meta {
+  color: $brand-color;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.post-link {
+  font-weight: 600;
+  color: #1a1a2e;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $eth-primary;
+    text-decoration: none;
+  }
+}
+
+.post-list > li {
+  padding: $spacing-unit;
+  margin-bottom: $spacing-unit / 2;
+  background: #ffffff;
+  border: 1px solid $border-color-01;
+  border-radius: 12px;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(22, 22, 180, 0.08);
+    transform: translateY(-1px);
+  }
+}
+
+// --- Card Styles (for content sections) ---
+
+.card, .info-card {
+  background: #ffffff;
+  border: 1px solid $border-color-01;
+  border-radius: 12px;
+  padding: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 8px 24px rgba(22, 22, 180, 0.1);
+    transform: translateY(-2px);
+  }
+
+  h3 {
+    margin-top: 0;
+    color: $eth-primary;
+  }
+}
+
+// --- Gradient Accent Banner ---
+
+.gradient-banner {
+  background: linear-gradient(135deg, $eth-primary 0%, #4B3FCC 25%, #7B68EE 50%, #88AAF1 75%, $eth-cyan 100%);
+  color: #ffffff;
+  border-radius: 16px;
+  padding: $spacing-unit * 1.5;
+  margin-bottom: $spacing-unit * 1.5;
+
+  h1, h2, h3 {
+    color: #ffffff;
+  }
+
+  a {
+    color: $eth-cyan;
+
+    &:hover {
+      color: #ffffff;
+    }
+  }
+}
+
+// --- Button Styles ---
+
+.btn, .button, a.btn, a.button {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  border: none;
+}
+
+.btn-primary, a.btn-primary {
+  background: $eth-primary;
+  color: #ffffff;
+
+  &:hover, &:visited:hover {
+    background: lighten($eth-primary, 10%);
+    color: #ffffff;
+    text-decoration: none;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(22, 22, 180, 0.3);
+  }
+
+  &:visited {
+    color: #ffffff;
+  }
+}
+
+.btn-secondary, a.btn-secondary {
+  background: transparent;
+  color: $eth-primary;
+  border: 2px solid $eth-primary;
+
+  &:hover, &:visited:hover {
+    background: $eth-primary;
+    color: #ffffff;
+    text-decoration: none;
+  }
+
+  &:visited {
+    color: $eth-primary;
+  }
+}
+
+// --- Tables ---
+
+table {
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid $border-color-01;
+
+  th {
+    background: $eth-light-bg;
+    font-weight: 600;
+    color: #1a1a2e;
+    border-color: $border-color-01;
+  }
+
+  td {
+    border-color: $border-color-01;
+  }
+
+  tr:nth-child(even) {
+    background-color: $eth-light-bg;
+  }
+}
+
+// --- Code ---
+
+pre, code {
+  border-radius: 8px;
+  border-color: $border-color-01;
+}
+
+// --- Footer ---
+
+.site-footer {
+  background: $eth-dark;
+  color: #b0b0cc;
+  border-top: none;
+  padding: $spacing-unit * 2 0 $spacing-unit;
+
+  a {
+    color: #d0d0e8;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: $eth-purple;
+      text-decoration: none;
+    }
+
+    &:visited {
+      color: #d0d0e8;
+    }
+  }
+}
+
+.footer-col-wrapper {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  gap: $spacing-unit;
+  color: #b0b0cc;
+
+  @media screen and (max-width: $on-medium) {
+    grid-template-columns: 1fr 1fr;
+    gap: $spacing-unit / 1.5;
+  }
+
+  @media screen and (max-width: $on-palm) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.footer-col-brand {
+  padding-right: $spacing-unit;
+}
+
+.footer-logo-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: $spacing-unit / 2;
+
+  &, &:visited {
+    color: #ffffff;
+  }
+}
+
+.footer-logo {
+  border-radius: 6px;
+}
+
+.footer-brand-name {
+  color: #ffffff;
+}
+
+.footer-tagline {
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: #8888aa;
+  margin-top: $spacing-unit / 4;
+}
+
+.footer-heading {
+  color: #ffffff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: $spacing-unit / 2;
+}
+
+.footer-nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    margin-bottom: 8px;
+  }
+
+  a {
+    font-size: 0.9rem;
+    color: #b0b0cc;
+
+    &:hover {
+      color: $eth-purple;
+    }
+  }
+}
+
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: $spacing-unit * 1.5;
+  padding-top: $spacing-unit;
+  border-top: 1px solid $eth-dark-mid;
+
+  @media screen and (max-width: $on-palm) {
+    flex-direction: column;
+    gap: $spacing-unit / 2;
+    text-align: center;
+  }
+}
+
+.footer-copyright {
+  font-size: 0.8rem;
+  color: #6B6B9E;
+  margin: 0;
+}
+
+.feed-subscribe {
+  margin: 0;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.85rem;
+    color: #8888aa;
+
+    &:hover {
+      color: $eth-purple;
+    }
+  }
+
+  .svg-icon {
+    fill: currentColor;
+    width: 14px;
+    height: 14px;
+  }
+}
+
+// Hide the old social links section from default minima footer
+.social-links {
+  display: none;
+}
+
+// --- Utility Classes ---
+
+.text-center { text-align: center; }
+.text-muted { color: $brand-color; }
+.mt-1 { margin-top: $spacing-unit / 2; }
+.mt-2 { margin-top: $spacing-unit; }
+.mt-3 { margin-top: $spacing-unit * 1.5; }
+.mb-1 { margin-bottom: $spacing-unit / 2; }
+.mb-2 { margin-bottom: $spacing-unit; }
+.mb-3 { margin-bottom: $spacing-unit * 1.5; }
+
+// --- Selection Color ---
+
+::selection {
+  background: rgba(22, 22, 180, 0.15);
+  color: #1a1a2e;
+}
+
+// --- Smooth Scrolling ---
+
+html {
+  scroll-behavior: smooth;
+}
+
+// --- HR ---
+
+hr {
+  border: none;
+  height: 1px;
+  background: $border-color-01;
+  margin: $spacing-unit * 1.5 0;
+}
+
+// --- Images (general) ---
+
+img {
+  border-radius: 8px;
+}
+
+// Don't round small inline images like logos/icons
+.site-logo, .footer-logo, .svg-icon {
+  border-radius: 8px;
+}
+
+// --- Responsive fine-tuning ---
+
+@media screen and (min-width: $on-large) {
+  .page-heading {
+    font-size: 3rem;
+  }
+
+  .post-title,
+  .post-content h1 {
+    font-size: 3rem;
+  }
+}

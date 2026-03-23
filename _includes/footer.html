@@ -4,34 +4,51 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
+      <div class="footer-col footer-col-brand">
+        <a href="{{ "/" | relative_url }}" class="footer-logo-link">
+          <img src="{{ '/assets/DMF-Logo.png' | relative_url }}" alt="DMF" class="footer-logo" width="36" height="36">
+          <span class="footer-brand-name">{{ site.title | escape }}</span>
+        </a>
+        <p class="footer-tagline">{{ site.tagline | escape }}</p>
+      </div>
+
+      <div class="footer-col footer-col-links">
+        <h4 class="footer-heading">Learn</h4>
+        <ul class="footer-nav">
+          <li><a href="{{ '/about/' | relative_url }}">About DMF</a></li>
+          <li><a href="{{ '/dao/' | relative_url }}">DAO</a></li>
+          <li><a href="{{ '/currencies/' | relative_url }}">Currencies</a></li>
         </ul>
-      {%- endif %}
       </div>
 
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+      <div class="footer-col footer-col-links">
+        <h4 class="footer-heading">Participate</h4>
+        <ul class="footer-nav">
+          <li><a href="{{ '/exchanges/' | relative_url }}">Exchanges</a></li>
+          <li><a href="{{ '/news/' | relative_url }}">News</a></li>
+          <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+        </ul>
       </div>
 
+      <div class="footer-col footer-col-links">
+        <h4 class="footer-heading">Connect</h4>
+        <ul class="footer-nav">
+          <li><a href="https://github.com/Digital-Monetary-Fund/" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://twitter.com/DigitalMoneyFnd" target="_blank" rel="noopener">Twitter</a></li>
+          <li><a href="https://www.linkedin.com/company/digital-monetary-fund/" target="_blank" rel="noopener">LinkedIn</a></li>
+          <li><a href="https://www.facebook.com/digitalmonetary.fund/" target="_blank" rel="noopener">Facebook</a></li>
+        </ul>
+      </div>
     </div>
 
-  </div>
-  <div class="social-links">
-    {%- include social.html -%}
+    <div class="footer-bottom">
+      <p class="footer-copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.title | escape }}. All rights reserved.</p>
+      <p class="feed-subscribe">
+        <a href="{{ 'feed.xml' | relative_url }}">
+          <svg class="svg-icon"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>RSS Feed</span>
+        </a>
+      </p>
+    </div>
+
   </div>
 </footer>

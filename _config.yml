@@ -193,16 +193,16 @@ round-avatar: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#1c1c3a"
+navbar-text-col: "#f7f7f7"
+navbar-border-col: "#2e2e5e"
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+text-col: "#333333"
+link-col: "#1616B4"
+hover-col: "#8C8DFC"
+footer-col: "#1c1c3a"
+footer-text-col: "#b0b0cc"
+footer-link-col: "#C9B3F5"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -240,6 +240,6 @@ footer-link-col: "#404040"
 
 # --- Background images --- #
 
-navbar-img: "/assets/navbar-logo.jpg"
-footer-img: "/assets/footer-logo.jpg"
-page-img: "/assets/page-logo.jpg"
+#navbar-img: "/assets/navbar-logo.jpg"
+#footer-img: "/assets/footer-logo.jpg"
+#page-img: "/assets/page-logo.jpg"

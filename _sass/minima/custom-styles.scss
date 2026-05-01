@@ -384,7 +384,7 @@ pre, code {
 
 .footer-col-wrapper {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
   gap: $spacing-unit;
   color: #b0b0cc;
 
@@ -395,6 +395,25 @@ pre, code {
 
   @media screen and (max-width: $on-palm) {
     grid-template-columns: 1fr;
+  }
+}
+
+.footer-disclaimer {
+  margin-top: $spacing-unit;
+  padding-top: $spacing-unit / 2;
+  border-top: 1px solid $eth-dark-mid;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  color: #6B6B9E;
+
+  p { margin: 0; }
+
+  a {
+    color: #8888aa;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+
+    &:hover { color: $eth-purple; }
   }
 }
 

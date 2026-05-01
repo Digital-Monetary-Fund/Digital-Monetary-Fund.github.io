@@ -79,6 +79,7 @@ header_pages:
   - dao/index.md
   - currencies/index.md
   - exchanges/index.md
+  - audits/index.md
   - news/index.md
   - contact.md
 

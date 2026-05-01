@@ -6,7 +6,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-brand">
         <a href="{{ "/" | relative_url }}" class="footer-logo-link">
-          <img src="{{ '/assets/DMF-Logo.png' | relative_url }}" alt="DMF" class="footer-logo" width="36" height="36">
+          <img src="{{ '/assets/DMF-Logo.png' | relative_url }}" alt="DMF" class="footer-logo" width="36" height="36" loading="lazy">
           <span class="footer-brand-name">{{ site.title | escape }}</span>
         </a>
         <p class="footer-tagline">{{ site.tagline | escape }}</p>
@@ -26,7 +26,16 @@
         <ul class="footer-nav">
           <li><a href="{{ '/exchanges/' | relative_url }}">Exchanges</a></li>
           <li><a href="{{ '/news/' | relative_url }}">News</a></li>
-          <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+          <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-links">
+        <h4 class="footer-heading">Trust</h4>
+        <ul class="footer-nav">
+          <li><a href="{{ '/audits/' | relative_url }}">Audit Reports</a></li>
+          <li><a href="https://etherscan.io/token/0xa42be035918a91406ad0d756e96af0dd442e12df" target="_blank" rel="noopener">Contract on Etherscan</a></li>
+          <li><a href="{{ '/disclaimer/' | relative_url }}">Disclaimer</a></li>
         </ul>
       </div>
 
@@ -39,6 +48,13 @@
           <li><a href="https://www.facebook.com/digitalmonetary.fund/" target="_blank" rel="noopener">Facebook</a></li>
         </ul>
       </div>
+    </div>
+
+    <div class="footer-disclaimer">
+      <p>
+        Digital assets are volatile and carry risk of loss. Nothing on this site is investment advice.
+        See the <a href="{{ '/disclaimer/' | relative_url }}">Disclaimer</a> for full risk disclosure.
+      </p>
     </div>
 
     <div class="footer-bottom">

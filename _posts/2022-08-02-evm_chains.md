@@ -7,7 +7,7 @@ categories: project update
 
 This year the DMF team have been focused on developing, testing and auditing Smart Contract code for our portfolio of stable coins. One of our goals has been to deploy our stable coins as Smart Contracts on the most popular blockchains based on the Ethereum Virtual Machine (EVM).
 
-![EVM Compatible Chains!](/assets/evm_blockchains.png )
+![EVM Compatible Chains!](/assets/evm_blockchains.png){:loading="lazy"}
 
 The Chains and their native (gas) tokens we plan to deploy on include:
 

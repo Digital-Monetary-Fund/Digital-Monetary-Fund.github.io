@@ -17,7 +17,7 @@ The Digital Monetary Fund DAO has launched on the popular Aragon Governance plat
 
 <a href="https://client.aragon.org/#/dmf/" target="_blank">https://client.aragon.org/#/dmf/</a>
 
-![DMF transparency and impact](/assets/impact_transparent.png)
+![DMF transparency and impact](/assets/impact_transparent.png){:loading="lazy"}
 
 **Overview**
 

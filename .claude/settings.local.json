@@ -3,7 +3,17 @@
     "allow": [
       "Bash(grep -r \"missing\\\\|deprecated\\\\|outdated\" /c/storage/git/dmf/Digital-Monetary-Fund.github.io --include=*.md --include=*.html)",
       "WebFetch(domain:ethereum.org)",
-      "Bash(bundle exec:*)"
+      "Bash(bundle exec:*)",
+      "Bash(git checkout *)",
+      "Bash(xxd)",
+      "Bash(xargs -I{} stat -c \"%s %n\" {})",
+      "Bash(bundle --version)",
+      "Bash(cp _sass/minima/custom-styles.scss /tmp/final-styles.scss)",
+      "Bash(cp _includes/footer.html /tmp/final-footer.html)",
+      "Bash(cp _includes/custom-head.html /tmp/final-custom-head.html)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Read(//tmp/**)"
     ]
   }
 }

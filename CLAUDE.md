@@ -28,7 +28,7 @@ bundle exec jekyll build
 - **Hosting:** GitHub Pages, branch `0-Production`, custom domain via `CNAME`
 - **Sass pipeline:** `assets/css/style.scss` imports Minima skin + `_sass/minima/initialize.scss`, which chains: `custom-variables.scss` -> `_base.scss` -> `_layout.scss` -> `custom-styles.scss`
 - **Layouts:** `_layouts/` contains `default.html` (shell), `page.html`, `post.html`, `home.html`
-- **Includes:** `_includes/` has `header.html` (with hardcoded logo URL), `footer.html` (with social links), `head.html`, `social.html`
+- **Includes:** `_includes/` has `header.html` (logo + nav), `footer.html` (multi-column footer with brand/links/connect), `head.html`, `custom-head.html` (favicons + Inter font), `social.html`
 
 ## Content Structure
 
@@ -40,9 +40,9 @@ The `coins/` directory hosts coin/token images and a standalone HTML page (not J
 
 ## Key Configuration
 
-- `_config.yml` — site metadata, plugins, nav order, color scheme, social links, and background images (`navbar-img`, `footer-img`, `page-img`)
+- `_config.yml` — site metadata, plugins, nav order, color scheme, social links. Background image variables (`navbar-img`, `footer-img`, `page-img`) are commented out.
 - Plugins: `jekyll-feed`, `jekyll-seo-tag`, `jekyll-paginate`, `jekyll-sitemap`, `jekyll-github-metadata`
-- The config has duplicate color blocks (lines ~167 and ~212) — the second block with background images overrides the first
+- Color palette and typography live in `_sass/minima/custom-variables.scss`; component styles live in `_sass/minima/custom-styles.scss`
 
 ## Deployment
 

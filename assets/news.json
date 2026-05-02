@@ -2,22 +2,22 @@
    "news": [
       {
          "id": "crew3.html",
-         "title": "Crew3 Site for CoinHarbour Community",
+         "title": "Crew3 Site for CoinPort Community",
          "created_at": "2022-11-22T11:10:00+01:00"
       },
       {
          "id": "discord.html",
-         "title": "CoinHarbour Discord Channel",
+         "title": "CoinPort Discord Channel",
          "created_at": "2022-11-18T10:15:00+01:00"
       },
       {
          "id": "ftx_response.html",
-         "title": "CoinHarbour Response to FTX Collapse",
+         "title": "CoinPort Response to FTX Collapse",
          "created_at": "2022-11-16T11:22:00+01:00"
       },
       {
          "id": "platform_upgrade_nov_2022.html",
-         "title": "CoinHarbour Exchange Platform Upgrade",
+         "title": "CoinPort Exchange Platform Upgrade",
          "created_at": "2022-11-01T12:15:00+01:00"
       },
       {
@@ -47,7 +47,7 @@
       },
       {
          "id": "bug_bounty.html",
-         "title": "CoinHarbour Bug Bounty Program",
+         "title": "CoinPort Bug Bounty Program",
          "created_at": "2022-07-20T11:23:10+01:00"
       },
       {
@@ -162,7 +162,7 @@
      },
      {
       "id": "001-news.html",
-      "title": "CoinHarbour System Upgrade",
+      "title": "CoinPort System Upgrade",
      "created_at": "2020-11-12T11:41:22+01:00"
    }
 ]

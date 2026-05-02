@@ -13,9 +13,9 @@ Automatic trading robots or bots are used to provide a continuous market for DMF
 
 | Exchange        | Website                             | Country    |
 | :---------------|------------------------------------ |------------|
-| CoinHarbour     | <a href="https://www.coinharbour.com.au">https://www.coinharbour.com.au</a> | Australia  |
+| CoinPort Exchange     | <a href="https://www.coinort.com.au">https://www.coinport.com.au</a> | Australia  |
 | Independent Exchange     | <a href="https://www.independent.exchange">https://www.independent.exchange</a> | Singapore  |
-| Independent Exchange     | <a href="https://www.mintme.com/">https://www.mintme.com/</a> | Belize |
+| MintMe Exchange     | <a href="https://www.mintme.com/">https://www.mintme.com/</a> | Belize |
 | Uniswap         | <a href="https://uniswap.org/">https://uniswap.org/</a> | New York, New York, United States |
 
 
